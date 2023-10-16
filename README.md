@@ -392,7 +392,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [vidstack/vidstack](https://github.com/vidstack/vidstack) - Build and ship a production-ready player in minutes. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern alternative to JW Player and Video.js.
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay) - WebGL and GLSL projects 2022 🌬
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
