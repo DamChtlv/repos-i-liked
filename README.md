@@ -384,7 +384,7 @@
 - [gabrielcarloto/flow-launcher-helper](https://github.com/gabrielcarloto/flow-launcher-helper) - A simple lib to help build plugins for Flow Launcher
 - [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - 
 - [pmndrs/react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - 📺 Offscreen worker canvas for react-three-fiber
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
 - [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
