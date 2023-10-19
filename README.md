@@ -401,7 +401,7 @@
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) - ❗️PROJECT UNMAINTAINED❗️ 🧈 Butter is a simple drag and hold slider. With 0 dependencies 🍦
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites :tada:
