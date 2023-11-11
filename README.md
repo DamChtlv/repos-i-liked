@@ -100,6 +100,12 @@
 
 ## JavaScript 
 
+- [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
+- [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
@@ -162,7 +168,6 @@
 - [hmongouachon/rgbKineticSlider](https://github.com/hmongouachon/rgbKineticSlider) - A fully customizable webgl slider based on PixiJs and Gsap
 - [nickdeny/darkmode.js](https://github.com/nickdeny/darkmode.js) - 🌒 Lightweight and powerful library that add dark theme to website based on user's time & OS appearance
 - [jackfranklin/gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Automatically load in gulp plugins
-- [ahmadawais/Emoji-Log](https://github.com/ahmadawais/Emoji-Log) - Emoji-Log — An Emoji Git commit log messages spec standard. [  📦👌🐛📖🚀🤖 ‼️]
 - [imagemin/imagemin](https://github.com/imagemin/imagemin) - [Unmaintained] Minify images seamlessly
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -274,6 +279,7 @@
 
 ## PHP 
 
+- [afragen/git-updater](https://github.com/afragen/git-updater) - This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
@@ -370,6 +376,7 @@
 
 ## TypeScript 
 
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) - This action can be added, and you will get outputs of all of the files that have changed in your repository for you to use.
 - [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
