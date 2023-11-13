@@ -571,6 +571,7 @@
 
 ## others 
 
+- [RenaudRohlinger/vanilla-three-starter](https://github.com/RenaudRohlinger/vanilla-three-starter) - Vanilla Three.js Starter
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
