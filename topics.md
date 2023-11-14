@@ -372,7 +372,6 @@
 
 ## hacktoberfest 
 
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
@@ -472,6 +471,7 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
@@ -571,7 +571,6 @@
 
 ## others 
 
-- [RenaudRohlinger/vanilla-three-starter](https://github.com/RenaudRohlinger/vanilla-three-starter) - Vanilla Three.js Starter
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
@@ -728,7 +727,6 @@
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
 - [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [valentin-pellegrin/acf-flexible-layouts-manager](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager) - 
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 - [baublet/tinypng-cli](https://github.com/baublet/tinypng-cli) - Handy command line tool for shrinking PNG images using the TinyPNG API
 - [dgraham/delegated-events](https://github.com/dgraham/delegated-events) - A small, fast delegated event library for JavaScript.
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
