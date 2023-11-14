@@ -101,7 +101,6 @@
 
 ## JavaScript 
 
-- [RenaudRohlinger/vanilla-three-starter](https://github.com/RenaudRohlinger/vanilla-three-starter) - Vanilla Three.js Starter
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
@@ -226,7 +225,7 @@
 - [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
 - [valentin-pellegrin/acf-flexible-layouts-manager](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager) - 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [baublet/tinypng-cli](https://github.com/baublet/tinypng-cli) - Handy command line tool for shrinking PNG images using the TinyPNG API
