@@ -102,6 +102,7 @@
 
 ## JavaScript 
 
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
