@@ -28,6 +28,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-visualization](#data-visualization)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
 - [discord](#discord)
@@ -247,6 +248,10 @@
 
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+
+## database 
+
+- [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
 
 ## deep-learning 
 
@@ -588,6 +593,7 @@
 
 ## others 
 
+- [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
@@ -978,6 +984,8 @@
 
 ## wordpress 
 
+- [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
+- [WordPress/create-block-theme](https://github.com/WordPress/create-block-theme) - A WordPress plugin to create block themes
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [psaikali/msk-devtools](https://github.com/psaikali/msk-devtools) - WordPress must-use plugin adding useful functions to WP developers.
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
