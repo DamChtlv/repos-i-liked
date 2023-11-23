@@ -229,7 +229,7 @@
 - [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 - [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -531,7 +531,7 @@
 ## library 
 
 - [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 
 ## linux 
 
