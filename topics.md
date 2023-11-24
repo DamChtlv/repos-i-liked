@@ -593,6 +593,7 @@
 
 ## others 
 
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
