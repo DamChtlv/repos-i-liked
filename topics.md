@@ -389,6 +389,8 @@
 
 ## hacktoberfest 
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
@@ -414,6 +416,7 @@
 
 ## html 
 
+- [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
@@ -445,6 +448,7 @@
 
 ## javascript 
 
+- [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Morglod/tseep](https://github.com/Morglod/tseep) - Fastest event emitter in the world for js
@@ -593,6 +597,7 @@
 
 ## others 
 
+- [BeAPI/multisite-shared-blocks](https://github.com/BeAPI/multisite-shared-blocks) - 
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
@@ -771,6 +776,8 @@
 
 ## php 
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [rtCamp/action-phpcs-code-review](https://github.com/rtCamp/action-phpcs-code-review) - Github Action to perform automated code review on pull requests
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
@@ -985,6 +992,9 @@
 
 ## wordpress 
 
+- [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite.
+- [pixelcollective/wp-performant-media](https://github.com/pixelcollective/wp-performant-media) - Simple lazy loading plugin for WordPress
+- [roots/wp-stage-switcher](https://github.com/roots/wp-stage-switcher) - WordPress plugin that allows you to switch between different environments from the admin bar
 - [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
 - [WordPress/create-block-theme](https://github.com/WordPress/create-block-theme) - A WordPress plugin to create block themes
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
