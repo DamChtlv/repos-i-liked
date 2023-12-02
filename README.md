@@ -305,7 +305,7 @@
 - [Automattic/vip-block-data-api](https://github.com/Automattic/vip-block-data-api) - WordPress plugin that provides an API to retrieve Gutenberg content as structured JSON.
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link 
 - [deliciousbrains/wp-background-processing](https://github.com/deliciousbrains/wp-background-processing) - WordPress background processing class
-- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [Pilot-in/PiloPress](https://github.com/Pilot-in/PiloPress) - The most advanced WordPress Page Builder using Advanced Custom Fields & TailwindCSS
 - [gabriel-munteanu/wp-p3-profiler](https://github.com/gabriel-munteanu/wp-p3-profiler) - See which plugins are slowing down your site. This plugin creates a performance report for your site.
 - [bluerocktel/sellsy-client](https://github.com/bluerocktel/sellsy-client) - A lightweight PHP client to query the Sellsy API V2 (Sellsy API connector)
