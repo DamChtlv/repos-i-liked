@@ -251,6 +251,7 @@
 
 ## database 
 
+- [stuttter/ludicrousdb](https://github.com/stuttter/ludicrousdb) - LudicrousDB is an advanced database interface for WordPress that supports replication, failover, load balancing, & partitioning
 - [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
 
 ## deep-learning 
@@ -298,6 +299,7 @@
 
 ## es6 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [rootwork/GET](https://github.com/rootwork/GET) - GET: Gulp, ES6, TailwindCSS
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -367,10 +369,12 @@
 
 ## go 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## golang 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## google 
@@ -389,6 +393,7 @@
 
 ## hacktoberfest 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -448,6 +453,7 @@
 
 ## javascript 
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -994,6 +1000,7 @@
 
 ## wordpress 
 
+- [stuttter/ludicrousdb](https://github.com/stuttter/ludicrousdb) - LudicrousDB is an advanced database interface for WordPress that supports replication, failover, load balancing, & partitioning
 - [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite.
 - [pixelcollective/wp-performant-media](https://github.com/pixelcollective/wp-performant-media) - Simple lazy loading plugin for WordPress
 - [roots/wp-stage-switcher](https://github.com/roots/wp-stage-switcher) - WordPress plugin that allows you to switch between different environments from the admin bar
