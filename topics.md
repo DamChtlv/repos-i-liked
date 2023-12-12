@@ -258,6 +258,7 @@
 
 ## database 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [stuttter/ludicrousdb](https://github.com/stuttter/ludicrousdb) - LudicrousDB is an advanced database interface for WordPress that supports replication, failover, load balancing, & partitioning
 - [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
 
@@ -611,6 +612,7 @@
 
 ## others 
 
+- [colorful-tones/acf-slider-block](https://github.com/colorful-tones/acf-slider-block) - A slider carousel block with ACF Blocks and SwiperJS
 - [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [BeAPI/multisite-shared-blocks](https://github.com/BeAPI/multisite-shared-blocks) - 
@@ -884,6 +886,7 @@
 
 ## rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 
 ## sass 
