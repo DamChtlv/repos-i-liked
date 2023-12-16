@@ -147,7 +147,6 @@
 - [StrandedKitty/three-csm](https://github.com/StrandedKitty/three-csm) - ☀️ Cascaded shadow maps (CSMs) implementation for Three.js
 - [ayamflow/virtual-scroll](https://github.com/ayamflow/virtual-scroll) - A low-level library to create custom scroll behaviors.
 - [quentinhocde/loconative-scroll](https://github.com/quentinhocde/loconative-scroll) - The great locomotive-scroll but 100% Native, updated with Lenis to get a native but smooth scrolling experience.
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
 - [simplistik/acf-ajax-form-submit](https://github.com/simplistik/acf-ajax-form-submit) - Submit a WordPress ACF front end form via AJAX, instead of it's standard POST/page refresh method.
 - [Code-Pop/vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
@@ -254,6 +253,7 @@
 ## MDX 
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
+- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 
 ## Markdown 
 
