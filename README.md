@@ -19,6 +19,7 @@
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -348,6 +349,10 @@
 - [roots/sage-woocommerce](https://github.com/roots/sage-woocommerce) - WooCommerce integration for Sage 9 themes
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
+
+## PowerShell 
+
+- [iandiv/StartAllBack-Cleanup](https://github.com/iandiv/StartAllBack-Cleanup) - This script will clean up the registry keys
 
 ## Python 
 
