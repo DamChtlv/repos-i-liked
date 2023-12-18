@@ -618,6 +618,7 @@
 
 ## others 
 
+- [iandiv/StartAllBack-Cleanup](https://github.com/iandiv/StartAllBack-Cleanup) - This script will clean up the registry keys
 - [Automattic/wp-openid-connect-server](https://github.com/Automattic/wp-openid-connect-server) - Use OpenID Connect to log in to other webservices using your own WordPress
 - [colorful-tones/acf-slider-block](https://github.com/colorful-tones/acf-slider-block) - A slider carousel block with ACF Blocks and SwiperJS
 - [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
