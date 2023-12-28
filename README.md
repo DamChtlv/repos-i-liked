@@ -228,7 +228,7 @@
 - [dmnsgn/frontend-boilerplate](https://github.com/dmnsgn/frontend-boilerplate) - An ES20XX starter with common frontend tasks using Webpack 5 as module bundler and npm scripts as task runner.
 - [yoksel/svg-filters](https://github.com/yoksel/svg-filters) - ✨ SVG Filters Playground
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 - [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
 - [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
 - [valentin-pellegrin/acf-flexible-layouts-manager](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager) - 
