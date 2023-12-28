@@ -780,7 +780,7 @@
 - [stackgl/shader-school](https://github.com/stackgl/shader-school) - :mortar_board: A workshopper for GLSL shaders and graphics programming
 - [stackgl/webgl-workshop](https://github.com/stackgl/webgl-workshop) - :mortar_board: The sequel to shader-school: Learn the WebGL API
 - [yoksel/svg-filters](https://github.com/yoksel/svg-filters) - ✨ SVG Filters Playground
-- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+- [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 - [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
 - [valentin-pellegrin/acf-flexible-layouts-manager](https://github.com/valentin-pellegrin/acf-flexible-layouts-manager) - 
 - [baublet/tinypng-cli](https://github.com/baublet/tinypng-cli) - Handy command line tool for shrinking PNG images using the TinyPNG API
