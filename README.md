@@ -137,7 +137,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [brunosimon/keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations.
 - [spite/FaceMeshFaceGeometry](https://github.com/spite/FaceMeshFaceGeometry) - FaceMeshFaceGeometry for FaceMesh
-- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) - React Three Fiber, Nextjs, Tailwind and Styled-components starter
+- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) - React Three Fiber, Threejs, Nextjs starter
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [JEverhart383/first-headless-project](https://github.com/JEverhart383/first-headless-project) - Created with CodeSandbox
