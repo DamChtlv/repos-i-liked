@@ -27,6 +27,7 @@
 - [SCSS](#scss)
 - [SVG](#svg)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
@@ -290,6 +291,8 @@
 
 ## PHP 
 
+- [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [oidc-wp/openid-connect-generic](https://github.com/oidc-wp/openid-connect-generic) - WordPress plugin to provide an OpenID Connect Generic client
 - [Automattic/wp-openid-connect-server](https://github.com/Automattic/wp-openid-connect-server) - Use OpenID Connect to log in to other webservices using your own WordPress
 - [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
@@ -402,6 +405,10 @@
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+
+## Smarty 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## TypeScript 
 
