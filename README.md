@@ -86,6 +86,7 @@
 
 ## HTML 
 
+- [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) - 
 - [codrops/ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations) - An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
 - [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions) - Some inspiration for transitioning text blocks with different word animations.
