@@ -631,6 +631,8 @@
 
 ## others 
 
+- [kresnasatya/wp-vite-theme](https://github.com/kresnasatya/wp-vite-theme) - Proof of Concept (PoC) WordPress theme integrate with ViteJS.
+- [milesaylward/wp-theme-vite-template](https://github.com/milesaylward/wp-theme-vite-template) - An example on using Vite to compile Typescript & SCSS to create a custom wordpress theme.
 - [tj/n](https://github.com/tj/n) - Node version management
 - [PHPCSStandards/composer-installer](https://github.com/PHPCSStandards/composer-installer) - Composer installer for PHP_CodeSniffer coding standards
 - [iandiv/StartAllBack-Cleanup](https://github.com/iandiv/StartAllBack-Cleanup) - This script will clean up the registry keys
@@ -1054,6 +1056,7 @@
 
 ## wordpress 
 
+- [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Injects assets from a Vite manifest to the Wordpress head, supports themes and plugins
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
