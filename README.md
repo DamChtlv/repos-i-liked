@@ -264,7 +264,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks 
 
@@ -296,6 +296,7 @@
 
 ## PHP 
 
+- [liginc/wp-starter-theme](https://github.com/liginc/wp-starter-theme) - wordpress starter theme by wp-env & vite
 - [WP-Performance/presswind-plugin](https://github.com/WP-Performance/presswind-plugin) - Plugin PressWind for use vite.js in WordPress theme
 - [WP-Performance/presswind-assets](https://github.com/WP-Performance/presswind-assets) - Assets helpers for use Vite JS in WordPress
 - [wp-strap/vite-php](https://github.com/wp-strap/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
@@ -459,7 +460,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [vidstack/player](https://github.com/vidstack/player) - Build and ship a production-ready player in minutes. Robust, customizable, accessible, and framework-agnostic. Modern alternative to JW Player and Video.js.
+- [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay) - WebGL and GLSL projects 2022 🌬
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
