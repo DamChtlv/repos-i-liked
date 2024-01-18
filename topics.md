@@ -657,6 +657,7 @@
 
 ## others 
 
+- [AdvancedCustomFields/schemas](https://github.com/AdvancedCustomFields/schemas) - Schemas for Advanced Custom Fields
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
 - [8bit-echo/sage-vite](https://github.com/8bit-echo/sage-vite) - A WordPress theme based on sage with Vite tooling and HMR Support
 - [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
@@ -848,6 +849,7 @@
 
 ## php 
 
+- [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [WP-Performance/presswind-plugin](https://github.com/WP-Performance/presswind-plugin) - Plugin PressWind for use vite.js in WordPress theme
 - [wp-strap/vite-php](https://github.com/wp-strap/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
@@ -893,6 +895,7 @@
 
 ## python 
 
+- [cnumr/ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer. You have the ability to make the analysis on multiple pages with multiple screen resolution. You can also mak
 - [roose/Wox.Plugin.CanIUse](https://github.com/roose/Wox.Plugin.CanIUse) - Wox plugin for caniuse.com
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1100,6 +1103,7 @@
 
 ## wordpress 
 
+- [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [liginc/wp-starter-theme](https://github.com/liginc/wp-starter-theme) - wordpress starter theme by wp-env & vite
 - [WP-Performance/press-wind](https://github.com/WP-Performance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
 - [WP-Performance/presswind-plugin](https://github.com/WP-Performance/presswind-plugin) - Plugin PressWind for use vite.js in WordPress theme
