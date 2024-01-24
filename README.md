@@ -64,7 +64,6 @@
 
 - [Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
 - [Alicunde/HTML](https://github.com/Alicunde/HTML) - Set of simplified and stylized HTML elements
-- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
 - [boriskirov/fluiditype](https://github.com/boriskirov/fluiditype) - Fluiditype a simple fluid typography css helper for reading experience
@@ -95,6 +94,7 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
+- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [nuxodin/ie11CustomProperties](https://github.com/nuxodin/ie11CustomProperties) - CSS variables (Custom Properties) polyfill for IE11
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -298,6 +298,7 @@
 
 ## PHP 
 
+- [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
 - [surveyjs/surveyjs-php](https://github.com/surveyjs/surveyjs-php) - This demo shows how to integrate SurveyJS components with a PHP backend.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
@@ -440,6 +441,8 @@
 
 ## TypeScript 
 
+- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
+- [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
 - [milesaylward/wp-theme-vite-template](https://github.com/milesaylward/wp-theme-vite-template) - An example on using Vite to compile Typescript & SCSS to create a custom wordpress theme.
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
