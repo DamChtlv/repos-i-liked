@@ -667,6 +667,8 @@
 
 ## others 
 
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client
+- [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
 - [AdvancedCustomFields/schemas](https://github.com/AdvancedCustomFields/schemas) - Schemas for Advanced Custom Fields
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
@@ -860,7 +862,6 @@
 
 ## php 
 
-- [surveyjs/surveyjs-php](https://github.com/surveyjs/surveyjs-php) - This demo shows how to integrate SurveyJS components with a PHP backend.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
@@ -1120,6 +1121,7 @@
 
 ## wordpress 
 
+- [happyprime/wphtml-converter](https://github.com/happyprime/wphtml-converter) - Converts WPHTML (WordPress block markup) to its JS/JSON or PHP forms.
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [liginc/wp-starter-theme](https://github.com/liginc/wp-starter-theme) - wordpress starter theme by wp-env & vite
