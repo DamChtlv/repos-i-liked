@@ -107,6 +107,8 @@
 
 ## JavaScript 
 
+- [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
+- [happyprime/wphtml-converter](https://github.com/happyprime/wphtml-converter) - Converts WPHTML (WordPress block markup) to its JS/JSON or PHP forms.
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
 - [WP-Performance/press-wind](https://github.com/WP-Performance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
 - [wp-strap/wp-vite-starter](https://github.com/wp-strap/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
@@ -298,8 +300,8 @@
 
 ## PHP 
 
+- [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
-- [surveyjs/surveyjs-php](https://github.com/surveyjs/surveyjs-php) - This demo shows how to integrate SurveyJS components with a PHP backend.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
