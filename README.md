@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [10up/insert-special-characters](https://github.com/10up/insert-special-characters) - A Special Character inserter for the WordPress block editor (Gutenberg).
 - [MarieComet/core-block-custom-attributes](https://github.com/MarieComet/core-block-custom-attributes) - Example to add custom attributes to core blocks (Toolbar and Sidebar)
 - [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
@@ -302,6 +303,7 @@
 
 ## PHP 
 
+- [wholesomecode/wholesome-highlighter](https://github.com/wholesomecode/wholesome-highlighter) - Highlight text with a highlight colour of your choice, using Highlighter.
 - [MarieComet/better-accessibility](https://github.com/MarieComet/better-accessibility) - This WordPress plugin adds settings to improve accessibility and automatically corrects accessibility issues.
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
@@ -413,6 +415,7 @@
 
 ## Rust 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 
@@ -446,6 +449,7 @@
 
 ## TypeScript 
 
+- [vite-plugin/vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
 - [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
 - [milesaylward/wp-theme-vite-template](https://github.com/milesaylward/wp-theme-vite-template) - An example on using Vite to compile Typescript & SCSS to create a custom wordpress theme.
