@@ -303,6 +303,7 @@
 
 ## PHP 
 
+- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - Simple SAML toolkit for PHP
 - [wholesomecode/wholesome-highlighter](https://github.com/wholesomecode/wholesome-highlighter) - Highlight text with a highlight colour of your choice, using Highlighter.
 - [MarieComet/better-accessibility](https://github.com/MarieComet/better-accessibility) - This WordPress plugin adds settings to improve accessibility and automatically corrects accessibility issues.
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client
@@ -449,6 +450,7 @@
 
 ## TypeScript 
 
+- [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
 - [vite-plugin/vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
 - [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
