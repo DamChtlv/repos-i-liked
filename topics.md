@@ -670,6 +670,8 @@
 
 ## others 
 
+- [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
+- [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - Simple SAML toolkit for PHP
 - [vite-plugin/vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import
 - [wholesomecode/wholesome-highlighter](https://github.com/wholesomecode/wholesome-highlighter) - Highlight text with a highlight colour of your choice, using Highlighter.
 - [MarieComet/core-block-custom-attributes](https://github.com/MarieComet/core-block-custom-attributes) - Example to add custom attributes to core blocks (Toolbar and Sidebar)
