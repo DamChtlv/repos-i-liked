@@ -107,6 +107,8 @@
 
 ## JavaScript 
 
+- [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
+- [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
 - [10up/insert-special-characters](https://github.com/10up/insert-special-characters) - A Special Character inserter for the WordPress block editor (Gutenberg).
 - [MarieComet/core-block-custom-attributes](https://github.com/MarieComet/core-block-custom-attributes) - Example to add custom attributes to core blocks (Toolbar and Sidebar)
 - [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
@@ -303,6 +305,9 @@
 
 ## PHP 
 
+- [mosparo/wordpress-plugin](https://github.com/mosparo/wordpress-plugin) - This WordPress plugins adds the required functionality to use mosparo in your WordPress form.
+- [oidc-wp/oidc-wp-roles](https://github.com/oidc-wp/oidc-wp-roles) - Open ID Connect - WordPress Roles
+- [timnolte/oidc-keycloak-sso](https://github.com/timnolte/oidc-keycloak-sso) - 
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - Simple SAML toolkit for PHP
 - [wholesomecode/wholesome-highlighter](https://github.com/wholesomecode/wholesome-highlighter) - Highlight text with a highlight colour of your choice, using Highlighter.
 - [MarieComet/better-accessibility](https://github.com/MarieComet/better-accessibility) - This WordPress plugin adds settings to improve accessibility and automatically corrects accessibility issues.
@@ -450,6 +455,7 @@
 
 ## TypeScript 
 
+- [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
 - [vite-plugin/vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
@@ -485,7 +491,7 @@
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [michalzalobny/creative-bay](https://github.com/michalzalobny/creative-bay) - WebGL and GLSL projects 2022 🌬
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) - ❗️PROJECT UNMAINTAINED❗️ 🧈 Butter is a simple drag and hold slider. With 0 dependencies 🍦
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
