@@ -305,6 +305,7 @@
 
 ## PHP 
 
+- [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress
 - [mosparo/wordpress-plugin](https://github.com/mosparo/wordpress-plugin) - This WordPress plugins adds the required functionality to use mosparo in your WordPress form.
 - [oidc-wp/oidc-wp-roles](https://github.com/oidc-wp/oidc-wp-roles) - Open ID Connect - WordPress Roles
 - [timnolte/oidc-keycloak-sso](https://github.com/timnolte/oidc-keycloak-sso) - 
