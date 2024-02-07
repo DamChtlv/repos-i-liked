@@ -422,6 +422,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -478,7 +479,7 @@
 - [tweakpane/plugin-essentials](https://github.com/tweakpane/plugin-essentials) - Essential components for Tweakpane
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [gabrielcarloto/flow-launcher-helper](https://github.com/gabrielcarloto/flow-launcher-helper) - A simple lib to help build plugins for Flow Launcher
-- [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - 
+- [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - A Flow Launcher plugin that let you search tailwindcss classes and open their docs in your browser — just type tw and simply search
 - [pmndrs/react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - 📺 Offscreen worker canvas for react-three-fiber
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
