@@ -43,6 +43,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -82,6 +83,7 @@
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [php](#php)
 - [privacy](#privacy)
@@ -267,6 +269,7 @@
 
 ## dart 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## data 
@@ -345,7 +348,12 @@
 
 ## flutter 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+
+## flutter-apps 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
 ## font 
 
@@ -432,6 +440,7 @@
 
 ## hacktoberfest 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
@@ -605,6 +614,7 @@
 
 ## linux 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [DotBow/Blender-Launcher](https://github.com/DotBow/Blender-Launcher) - Standalone client for managing official builds of Blender 3D
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
@@ -735,7 +745,7 @@
 - [studio-freight/tempus](https://github.com/studio-freight/tempus) - Use only one requestAnimationFrame for your whole app
 - [codrops/MagneticButtons](https://github.com/codrops/MagneticButtons) - A set of buttons with a magnetic interaction and a hover effect.
 - [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
-- [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - 
+- [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - A Flow Launcher plugin that let you search tailwindcss classes and open their docs in your browser — just type tw and simply search
 - [0beqz/realism-effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - Effects to enhance your three.js scene's realism
 - [pmndrs/react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - 📺 Offscreen worker canvas for react-three-fiber
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link 
@@ -874,6 +884,10 @@
 - [csscoder/bootstrap-silent-grid](https://github.com/csscoder/bootstrap-silent-grid) - Flex grid based on silent class SCSS and Bootstrap 4 grid (Bootstrap naming class)
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
+## p2p 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+
 ## package-manager 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -989,6 +1003,7 @@
 
 ## rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
