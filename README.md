@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
@@ -31,6 +32,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Batchfile 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
 
 ## Bikeshed 
 
@@ -305,6 +310,7 @@
 
 ## PHP 
 
+- [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
 - [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress
 - [mosparo/wordpress-plugin](https://github.com/mosparo/wordpress-plugin) - This WordPress plugins adds the required functionality to use mosparo in your WordPress form.
 - [oidc-wp/oidc-wp-roles](https://github.com/oidc-wp/oidc-wp-roles) - Open ID Connect - WordPress Roles
