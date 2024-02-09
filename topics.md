@@ -688,6 +688,7 @@
 
 ## others 
 
+- [FatehAK/vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize your image assets using Sharp.js and SVGO.
 - [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress
 - [oidc-wp/oidc-wp-roles](https://github.com/oidc-wp/oidc-wp-roles) - Open ID Connect - WordPress Roles
 - [timnolte/oidc-keycloak-sso](https://github.com/timnolte/oidc-keycloak-sso) - 
