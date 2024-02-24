@@ -532,7 +532,7 @@
 - [Code-Pop/Real-World_Vue-3](https://github.com/Code-Pop/Real-World_Vue-3) - Example app for Vue Mastery's Real World Vue 3 course
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
 - [Code-Pop/Vue-3-Forms](https://github.com/Code-Pop/Vue-3-Forms) - 
-- [vuesomedev/vue-3-playground](https://github.com/vuesomedev/vue-3-playground) - Vue 3 Playground packed with all the new features
+- [sonicoder86/vue-3-playground](https://github.com/sonicoder86/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [krestaino/nuepress](https://github.com/krestaino/nuepress) - 📖 Nuxt.js + WordPress REST API
 - [srhise/nuxt-wordpress-pwa](https://github.com/srhise/nuxt-wordpress-pwa) - Wordpress + Vue + Nuxt.js
 - [bshiluk/vue-wordpress](https://github.com/bshiluk/vue-wordpress) - Use Vue.js and the WP REST API to build WordPress themes as SPAs with dynamic routing, HMR for development, SEO enabled, and SSR capable. Demo:
