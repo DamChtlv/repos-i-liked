@@ -1109,7 +1109,7 @@
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
-- [vuesomedev/vue-3-playground](https://github.com/vuesomedev/vue-3-playground) - Vue 3 Playground packed with all the new features
+- [sonicoder86/vue-3-playground](https://github.com/sonicoder86/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [krestaino/nuepress](https://github.com/krestaino/nuepress) - 📖 Nuxt.js + WordPress REST API
 - [srhise/nuxt-wordpress-pwa](https://github.com/srhise/nuxt-wordpress-pwa) - Wordpress + Vue + Nuxt.js
@@ -1122,7 +1122,7 @@
 ## vuejs 
 
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
-- [vuesomedev/vue-3-playground](https://github.com/vuesomedev/vue-3-playground) - Vue 3 Playground packed with all the new features
+- [sonicoder86/vue-3-playground](https://github.com/sonicoder86/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [bshiluk/vue-wordpress](https://github.com/bshiluk/vue-wordpress) - Use Vue.js and the WP REST API to build WordPress themes as SPAs with dynamic routing, HMR for development, SEO enabled, and SSR capable. Demo:
 - [netlify-labs/headless-wp-nuxt](https://github.com/netlify-labs/headless-wp-nuxt) - 🏔 Headless WordPress JAMstack Template
 
