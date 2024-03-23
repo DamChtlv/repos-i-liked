@@ -515,6 +515,7 @@
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Morglod/tseep](https://github.com/Morglod/tseep) - Fastest event emitter in the world for js
 - [craftedbygc/taxi](https://github.com/craftedbygc/taxi) - Taxi is a 🤏 small and 🐊 snappy js library for adding slick PJAX navigation and beautiful transitions to your website.
@@ -1084,6 +1085,7 @@
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [Morglod/tseep](https://github.com/Morglod/tseep) - Fastest event emitter in the world for js
 - [gabrielcarloto/flow-launcher-helper](https://github.com/gabrielcarloto/flow-launcher-helper) - A simple lib to help build plugins for Flow Launcher
