@@ -311,6 +311,7 @@
 
 ## PHP 
 
+- [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [pantheon-systems/wp-saml-auth](https://github.com/pantheon-systems/wp-saml-auth) - Rock-solid SAML authentication for WordPress built on a modern foundation.
 - [inpsyde/menu-cache](https://github.com/inpsyde/menu-cache) - Easily cache rendered menus using the Transients API.
 - [php-stubs/acf-pro-stubs](https://github.com/php-stubs/acf-pro-stubs) - ACF PRO stubs for static analysis
