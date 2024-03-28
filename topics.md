@@ -694,6 +694,7 @@
 
 ## others 
 
+- [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [FatehAK/vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize your image assets using Sharp.js and SVGO.
 - [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) - Performance optimization plugin for WordPress
