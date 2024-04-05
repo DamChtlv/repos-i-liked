@@ -55,6 +55,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [gulp](#gulp)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -439,6 +440,10 @@
 
 - [rootwork/GET](https://github.com/rootwork/GET) - GET: Gulp, ES6, TailwindCSS
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
+
+## hacking-tool 
+
+- [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 
 ## hacktoberfest 
 
