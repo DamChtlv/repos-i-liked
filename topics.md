@@ -77,6 +77,7 @@
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
+- [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -655,6 +656,10 @@
 ## monitoring 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## nestjs 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## nextjs 
 
