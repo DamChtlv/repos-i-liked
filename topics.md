@@ -721,7 +721,7 @@
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
 - [AdvancedCustomFields/schemas](https://github.com/AdvancedCustomFields/schemas) - Schemas for Advanced Custom Fields
-- [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - A simple Docker based development environment for WordPress.
+- [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [8bit-echo/sage-vite](https://github.com/8bit-echo/sage-vite) - A WordPress theme based on sage with Vite tooling and HMR Support
 - [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
 - [kresnasatya/wp-vite-theme](https://github.com/kresnasatya/wp-vite-theme) - Proof of Concept (PoC) WordPress theme integrate with ViteJS.
