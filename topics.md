@@ -106,6 +106,7 @@
 - [server](#server)
 - [shell](#shell)
 - [sketch](#sketch)
+- [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -1066,6 +1067,10 @@
 ## sketch 
 
 - [ruedap/alfred-font-awesome-workflow](https://github.com/ruedap/alfred-font-awesome-workflow) - 🎩 Font Awesome workflow for Alfred
+
+## stable-diffusion 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## svelte 
 
