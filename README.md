@@ -122,7 +122,7 @@
 - [happyprime/wphtml-converter](https://github.com/happyprime/wphtml-converter) - Converts WPHTML (WordPress block markup) to its JS/JSON or PHP forms.
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [WP-Performance/press-wind](https://github.com/WP-Performance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
-- [wp-strap/wp-vite-starter](https://github.com/wp-strap/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
+- [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [colorful-tones/acf-slider-block](https://github.com/colorful-tones/acf-slider-block) - A slider carousel block with ACF Blocks and SwiperJS
@@ -330,7 +330,7 @@
 - [liginc/wp-starter-theme](https://github.com/liginc/wp-starter-theme) - wordpress starter theme by wp-env & vite
 - [WP-Performance/presswind-plugin](https://github.com/WP-Performance/presswind-plugin) - Plugin PressWind for use vite.js in WordPress theme
 - [WP-Performance/presswind-assets](https://github.com/WP-Performance/presswind-assets) - Assets helpers for use Vite JS in WordPress
-- [wp-strap/vite-php](https://github.com/wp-strap/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
+- [brandonkramer/vite-php](https://github.com/brandonkramer/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
 - [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [BrainMaestro/composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config
