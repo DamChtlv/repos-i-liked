@@ -705,6 +705,7 @@
 
 ## others 
 
+- [code-atlantic/content-control](https://github.com/code-atlantic/content-control) - 
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
@@ -1201,6 +1202,7 @@
 
 ## wordpress 
 
+- [MinnPost/object-sync-for-salesforce](https://github.com/MinnPost/object-sync-for-salesforce) - WordPress plugin that maps and syncs data between Salesforce objects and WordPress objects.
 - [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
 - [gregsullivan/_tw](https://github.com/gregsullivan/_tw) - The _tw generator creates a WordPress starter theme optimized for modern development with Tailwind CSS, Tailwind Typography and the WordPress editor.
 - [pantheon-systems/wp-saml-auth](https://github.com/pantheon-systems/wp-saml-auth) - Rock-solid SAML authentication for WordPress built on a modern foundation.
