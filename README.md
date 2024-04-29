@@ -473,6 +473,7 @@
 
 ## TypeScript 
 
+- [dilaouid/steam-wgp](https://github.com/dilaouid/steam-wgp) - 🎮 What are we Going to Play? Which game are you gonna play with your steam friend ? WebApp version.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [FatehAK/vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize your image assets using Sharp.js and SVGO.
