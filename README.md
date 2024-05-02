@@ -169,7 +169,6 @@
 - [ayamflow/virtual-scroll](https://github.com/ayamflow/virtual-scroll) - A low-level library to create custom scroll behaviors.
 - [quentinhocde/loconative-scroll](https://github.com/quentinhocde/loconative-scroll) - The great locomotive-scroll but 100% Native, updated with Lenis to get a native but smooth scrolling experience.
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
-- [simplistik/acf-ajax-form-submit](https://github.com/simplistik/acf-ajax-form-submit) - Submit a WordPress ACF front end form via AJAX, instead of it's standard POST/page refresh method.
 - [Code-Pop/vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
 - [AntoineW/luge](https://github.com/AntoineW/luge) - Luge
 - [Aqro/threejs-vanishing-suzanne](https://github.com/Aqro/threejs-vanishing-suzanne) - A vanishing effect for particles and magic lovers using Threejs, GSAP and custom shaders.
@@ -381,6 +380,7 @@
 - [snicco/better-wp-api](https://github.com/snicco/better-wp-api) - [READ ONLY] Subtree split of the snicco/better-wp-api package (see snicco/snicco).
 - [snicco/better-wp-hooks](https://github.com/snicco/better-wp-hooks) - [READ ONLY] Subtree split of the snicco/better-wp-hooks package (see snicco/snicco).
 - [snicco/snicco](https://github.com/snicco/snicco) - Taking the pain out of enterprise WordPress development
+- [simplistik/acf-ajax-form-submit](https://github.com/simplistik/acf-ajax-form-submit) - Submit a WordPress ACF front end form via AJAX, instead of it's standard POST/page refresh method.
 - [BeAPI/bea-plugin-defaults](https://github.com/BeAPI/bea-plugin-defaults) - Library of WordPress mu-plugins to set plugin's default options.
 - [Pierre-Lannoy/wp-plugin-boilerplate](https://github.com/Pierre-Lannoy/wp-plugin-boilerplate) - My personal plugin boilerplate for WordPress.
 - [hawkidoki/TailwindAPI-PHP-SDK](https://github.com/hawkidoki/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
