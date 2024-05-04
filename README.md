@@ -311,6 +311,7 @@
 
 ## PHP 
 
+- [lgladdy/acf-escaping-debug-plugin](https://github.com/lgladdy/acf-escaping-debug-plugin) - A WordPress plugin to enable debug error logging whenever ACF will modify or remove potentially unsafe when using the shortcode, the_field or the_sub_field
 - [gturpin-dev/OOWPrise](https://github.com/gturpin-dev/OOWPrise) - OOWPrise is a WordPress starter theme that heavily employs object-oriented programming techniques and modern WordPress tools.
 - [code-atlantic/content-control](https://github.com/code-atlantic/content-control) - 
 - [MinnPost/object-sync-for-salesforce](https://github.com/MinnPost/object-sync-for-salesforce) - WordPress plugin that maps and syncs data between Salesforce objects and WordPress objects.
