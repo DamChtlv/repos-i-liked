@@ -459,6 +459,7 @@
 
 ## Shell 
 
+- [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tj/n](https://github.com/tj/n) - Node version management
 - [rtCamp/action-phpcs-code-review](https://github.com/rtCamp/action-phpcs-code-review) - Github Action to perform automated code review on pull requests
