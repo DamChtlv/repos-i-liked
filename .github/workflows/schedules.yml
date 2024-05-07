@@ -3,7 +3,7 @@ name: Update liked repos
 on:
   workflow_dispatch:
   schedule:
-  - cron: 30 0 * * *
+  - cron: 30 0 * * * # Every day at 00:30am
   
 jobs:
   awesome-stars:
