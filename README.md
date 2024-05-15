@@ -476,6 +476,7 @@
 
 ## TypeScript 
 
+- [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [dmitriynazaratiy/splide-extension-auto-scroll](https://github.com/dmitriynazaratiy/splide-extension-auto-scroll) - The Splide extension for continuously scrolling the slider.
 - [dilaouid/steam-wgp](https://github.com/dilaouid/steam-wgp) - 🎮 What are we Going to Play? Which game are you gonna play with your steam friend ? WebApp version.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
