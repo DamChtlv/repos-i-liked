@@ -118,7 +118,6 @@
 - [10up/insert-special-characters](https://github.com/10up/insert-special-characters) - A Special Character inserter for the WordPress block editor (Gutenberg).
 - [MarieComet/core-block-custom-attributes](https://github.com/MarieComet/core-block-custom-attributes) - Example to add custom attributes to core blocks (Toolbar and Sidebar)
 - [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
-- [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [happyprime/wphtml-converter](https://github.com/happyprime/wphtml-converter) - Converts WPHTML (WordPress block markup) to its JS/JSON or PHP forms.
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [WP-Performance/press-wind](https://github.com/WP-Performance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
@@ -476,6 +475,8 @@
 
 ## TypeScript 
 
+- [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
+- [levii-pires/bunsai2](https://github.com/levii-pires/bunsai2) - The SSR engine for Bun
 - [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [dmitriynazaratiy/splide-extension-auto-scroll](https://github.com/dmitriynazaratiy/splide-extension-auto-scroll) - The Splide extension for continuously scrolling the slider.
 - [dilaouid/steam-wgp](https://github.com/dilaouid/steam-wgp) - 🎮 What are we Going to Play? Which game are you gonna play with your steam friend ? WebApp version.
@@ -485,6 +486,7 @@
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
 - [vite-plugin/vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import
+- [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
 - [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
 - [milesaylward/wp-theme-vite-template](https://github.com/milesaylward/wp-theme-vite-template) - An example on using Vite to compile Typescript & SCSS to create a custom wordpress theme.
