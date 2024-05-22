@@ -548,6 +548,7 @@
 
 ## Vue 
 
+- [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
 - [Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2](https://github.com/Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2) - Watch the full course for this repo at the following link:
 - [Code-Pop/Real-World_Vue-3](https://github.com/Code-Pop/Real-World_Vue-3) - Example app for Vue Mastery's Real World Vue 3 course
 - [Code-Pop/real-world-vue](https://github.com/Code-Pop/real-world-vue) - The application that we build in Vue Mastery's courses starting with Real World Vue
