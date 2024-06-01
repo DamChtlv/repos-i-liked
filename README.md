@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [ndiego/mega-menu-block](https://github.com/ndiego/mega-menu-block) - An exploratory mega menu block.
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
 - [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
@@ -309,6 +310,7 @@
 
 ## PHP 
 
+- [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
 - [lgladdy/acf-escaping-debug-plugin](https://github.com/lgladdy/acf-escaping-debug-plugin) - A WordPress plugin to enable debug error logging whenever ACF will modify or remove potentially unsafe when using the shortcode, the_field or the_sub_field
 - [gturpin-dev/OOWPrise](https://github.com/gturpin-dev/OOWPrise) - OOWPrise is a WordPress starter theme that heavily employs object-oriented programming techniques and modern WordPress tools.
 - [code-atlantic/content-control](https://github.com/code-atlantic/content-control) - 
