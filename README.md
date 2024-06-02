@@ -112,6 +112,9 @@
 
 ## JavaScript 
 
+- [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
+- [postcss/postcss-import](https://github.com/postcss/postcss-import) - PostCSS plugin to inline at-import rules content
+- [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [ndiego/mega-menu-block](https://github.com/ndiego/mega-menu-block) - An exploratory mega menu block.
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
