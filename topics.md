@@ -729,6 +729,8 @@
 
 ## others 
 
+- [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
+- [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
