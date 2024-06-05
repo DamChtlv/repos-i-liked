@@ -112,6 +112,8 @@
 
 ## JavaScript 
 
+- [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
+- [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
 - [postcss/postcss-import](https://github.com/postcss/postcss-import) - PostCSS plugin to inline at-import rules content
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
