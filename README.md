@@ -91,6 +91,7 @@
 
 ## HTML 
 
+- [tristen/hoverintent](https://github.com/tristen/hoverintent) - :mouse: Fire mouse events when a user intends it
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) - 
 - [codrops/ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations) - An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
