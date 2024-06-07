@@ -91,6 +91,7 @@
 
 ## HTML 
 
+- [them-es/starter-fse](https://github.com/them-es/starter-fse) - "FSE" WordPress block-based Starter Theme.
 - [tristen/hoverintent](https://github.com/tristen/hoverintent) - :mouse: Fire mouse events when a user intends it
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) - 
@@ -113,6 +114,7 @@
 
 ## JavaScript 
 
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
 - [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
