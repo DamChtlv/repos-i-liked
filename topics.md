@@ -733,6 +733,7 @@
 
 ## others 
 
+- [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
 - [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
 - [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
