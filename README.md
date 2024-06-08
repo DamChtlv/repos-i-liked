@@ -114,6 +114,7 @@
 
 ## JavaScript 
 
+- [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
 - [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
