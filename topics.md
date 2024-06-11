@@ -1244,6 +1244,7 @@
 
 ## wordpress 
 
+- [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
 - [them-es/starter-fse](https://github.com/them-es/starter-fse) - "FSE" WordPress block-based Starter Theme.
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [lgladdy/acf-escaping-debug-plugin](https://github.com/lgladdy/acf-escaping-debug-plugin) - A WordPress plugin to enable debug error logging whenever ACF will modify or remove potentially unsafe when using the shortcode, the_field or the_sub_field
