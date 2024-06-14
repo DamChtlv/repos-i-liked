@@ -318,6 +318,7 @@
 
 ## PHP 
 
+- [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
 - [lgladdy/acf-escaping-debug-plugin](https://github.com/lgladdy/acf-escaping-debug-plugin) - A WordPress plugin to enable debug error logging whenever ACF will modify or remove potentially unsafe when using the shortcode, the_field or the_sub_field
 - [gturpin-dev/OOWPrise](https://github.com/gturpin-dev/OOWPrise) - OOWPrise is a WordPress starter theme that heavily employs object-oriented programming techniques and modern WordPress tools.
@@ -450,7 +451,7 @@
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 
@@ -467,7 +468,6 @@
 
 ## Shell 
 
-- [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tj/n](https://github.com/tj/n) - Node version management
