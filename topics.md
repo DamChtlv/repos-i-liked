@@ -130,6 +130,7 @@
 - [wordplate](#wordplate)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -1313,6 +1314,10 @@
 ## xml 
 
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
+
+## zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
