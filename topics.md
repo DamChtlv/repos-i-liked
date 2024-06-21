@@ -80,7 +80,9 @@
 - [material-design](#material-design)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
+- [mongodb](#mongodb)
 - [monitoring](#monitoring)
+- [mysql](#mysql)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -92,6 +94,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [php](#php)
+- [postgresql](#postgresql)
 - [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
@@ -110,6 +113,7 @@
 - [server](#server)
 - [shell](#shell)
 - [sketch](#sketch)
+- [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
 - [telegram](#telegram)
@@ -302,6 +306,7 @@
 
 ## database 
 
+- [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [stuttter/ludicrousdb](https://github.com/stuttter/ludicrousdb) - LudicrousDB is an advanced database interface for WordPress that supports replication, failover, load balancing, & partitioning
 - [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning.
@@ -682,9 +687,17 @@
 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 
+## mongodb 
+
+- [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
+
 ## monitoring 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## mysql 
+
+- [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
 
 ## nestjs 
 
@@ -989,6 +1002,10 @@
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
 
+## postgresql 
+
+- [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
+
 ## privacy 
 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -1110,6 +1127,10 @@
 ## sketch 
 
 - [ruedap/alfred-font-awesome-workflow](https://github.com/ruedap/alfred-font-awesome-workflow) - 🎩 Font Awesome workflow for Alfred
+
+## sqlite 
+
+- [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
 
 ## stable-diffusion 
 
