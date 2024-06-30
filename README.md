@@ -14,9 +14,9 @@
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
+- [JSON](#json)
 - [JavaScript](#javascript)
 - [MDX](#mdx)
-- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -111,6 +111,10 @@
 - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 - [csscoder/bootstrap-silent-grid](https://github.com/csscoder/bootstrap-silent-grid) - Flex grid based on silent class SCSS and Bootstrap 4 grid (Bootstrap naming class)
+
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## JavaScript 
 
@@ -282,10 +286,6 @@
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks 
 
