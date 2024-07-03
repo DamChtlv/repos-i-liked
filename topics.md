@@ -974,7 +974,7 @@
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-- [WP-Performance/presswind-plugin](https://github.com/WP-Performance/presswind-plugin) - Plugin PressWind for use vite.js in WordPress theme
+- [WP-Performance/presswind-helpers](https://github.com/WP-Performance/presswind-helpers) - Plugin PressWind for use vite.js in WordPress theme
 - [brandonkramer/vite-php](https://github.com/brandonkramer/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
 - [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
 - [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
@@ -1287,7 +1287,7 @@
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
 - [liginc/wp-starter-theme](https://github.com/liginc/wp-starter-theme) - wordpress starter theme by wp-env & vite
 - [WP-Performance/press-wind](https://github.com/WP-Performance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
-- [WP-Performance/presswind-plugin](https://github.com/WP-Performance/presswind-plugin) - Plugin PressWind for use vite.js in WordPress theme
+- [WP-Performance/presswind-helpers](https://github.com/WP-Performance/presswind-helpers) - Plugin PressWind for use vite.js in WordPress theme
 - [WP-Performance/presswind-assets](https://github.com/WP-Performance/presswind-assets) - Assets helpers for use Vite JS in WordPress
 - [brandonkramer/vite-php](https://github.com/brandonkramer/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
 - [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
