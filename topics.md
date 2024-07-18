@@ -748,6 +748,7 @@
 
 ## others 
 
+- [DamChtlv/Plugin-Tags](https://github.com/DamChtlv/Plugin-Tags) - "Plugin tags" WordPress plugin
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
 - [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
@@ -1271,6 +1272,7 @@
 
 ## wordpress 
 
+- [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
 - [them-es/starter-fse](https://github.com/them-es/starter-fse) - "FSE" WordPress block-based Starter Theme.
