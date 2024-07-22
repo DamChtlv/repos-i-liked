@@ -320,6 +320,7 @@
 
 ## PHP 
 
+- [10up/convert-to-blocks](https://github.com/10up/convert-to-blocks) - Convert to Blocks is a WordPress plugin that transforms classic editor content to blocks on the fly.
 - [DamChtlv/Plugin-Tags](https://github.com/DamChtlv/Plugin-Tags) - "Plugin tags" WordPress plugin
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
