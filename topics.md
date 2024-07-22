@@ -753,6 +753,7 @@
 
 ## others 
 
+- [10up/convert-to-blocks](https://github.com/10up/convert-to-blocks) - Convert to Blocks is a WordPress plugin that transforms classic editor content to blocks on the fly.
 - [DamChtlv/Plugin-Tags](https://github.com/DamChtlv/Plugin-Tags) - "Plugin tags" WordPress plugin
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
