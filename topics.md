@@ -711,6 +711,7 @@
 
 ## nextjs 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 
 ## node 
@@ -744,6 +745,7 @@
 
 ## open-source 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [DotBow/Blender-Launcher](https://github.com/DotBow/Blender-Launcher) - Standalone client for managing official builds of Blender 3D
 
@@ -753,6 +755,7 @@
 
 ## others 
 
+- [swissspidy/wp-performance-action](https://github.com/swissspidy/wp-performance-action) - Reusable GitHub action to measure performance metrics of WordPress sites
 - [10up/convert-to-blocks](https://github.com/10up/convert-to-blocks) - Convert to Blocks is a WordPress plugin that transforms classic editor content to blocks on the fly.
 - [DamChtlv/Plugin-Tags](https://github.com/DamChtlv/Plugin-Tags) - "Plugin tags" WordPress plugin
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
@@ -1012,6 +1015,7 @@
 
 ## postgresql 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
 
 ## privacy 
@@ -1172,6 +1176,7 @@
 
 ## typescript 
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
