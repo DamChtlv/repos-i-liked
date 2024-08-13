@@ -34,6 +34,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deployment](#deployment)
 - [design](#design)
 - [discord](#discord)
 - [docker](#docker)
@@ -318,6 +319,10 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+
+## deployment 
+
+- [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) - GitHub Action for deploying code via rsync over ssh. (with NodeJS)
 
 ## design 
 
@@ -1002,7 +1007,7 @@
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [BrainMaestro/composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
@@ -1289,7 +1294,7 @@
 
 ## wordplate 
 
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 
 ## wordpress 
 
@@ -1326,7 +1331,7 @@
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [oidc-wp/openid-connect-generic](https://github.com/oidc-wp/openid-connect-generic) - WordPress plugin to provide an OpenID Connect Generic client
 - [stuttter/ludicrousdb](https://github.com/stuttter/ludicrousdb) - LudicrousDB is an advanced database interface for WordPress that supports replication, failover, load balancing, & partitioning
