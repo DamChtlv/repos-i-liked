@@ -118,6 +118,7 @@
 
 ## JavaScript 
 
+- [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) - GitHub Action for deploying code via rsync over ssh. (with NodeJS)
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
@@ -368,7 +369,7 @@
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
 - [PHPCSStandards/composer-installer](https://github.com/PHPCSStandards/composer-installer) - Composer installer for PHP_CodeSniffer coding standards
 - [johnbillion/extended-cpts](https://github.com/johnbillion/extended-cpts) - A library which provides extended functionality to WordPress custom post types and taxonomies.
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
+- [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [oidc-wp/openid-connect-generic](https://github.com/oidc-wp/openid-connect-generic) - WordPress plugin to provide an OpenID Connect Generic client
 - [Automattic/wp-openid-connect-server](https://github.com/Automattic/wp-openid-connect-server) - Use OpenID Connect to log in to other webservices using your own WordPress
 - [Automattic/blocks-everywhere](https://github.com/Automattic/blocks-everywhere) - Gutenberg block editor in WordPress comments, admin pages, bbPress, and BuddyPress.
