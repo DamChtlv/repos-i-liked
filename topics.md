@@ -805,7 +805,7 @@
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [8bit-echo/sage-vite](https://github.com/8bit-echo/sage-vite) - A WordPress theme based on sage with Vite tooling and HMR Support
 - [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
-- [kresnasatya/wp-vite-theme](https://github.com/kresnasatya/wp-vite-theme) - Proof of Concept (PoC) WordPress theme integrate with ViteJS.
+- [senkustream/wp-vite-theme](https://github.com/senkustream/wp-vite-theme) - Proof of Concept (PoC) WordPress theme integrate with ViteJS.
 - [milesaylward/wp-theme-vite-template](https://github.com/milesaylward/wp-theme-vite-template) - An example on using Vite to compile Typescript & SCSS to create a custom wordpress theme.
 - [tj/n](https://github.com/tj/n) - Node version management
 - [PHPCSStandards/composer-installer](https://github.com/PHPCSStandards/composer-installer) - Composer installer for PHP_CodeSniffer coding standards
