@@ -67,6 +67,7 @@
 
 ## CSS 
 
+- [Grafikart/olympics-medals](https://github.com/Grafikart/olympics-medals) - 
 - [Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
 - [Alicunde/HTML](https://github.com/Alicunde/HTML) - Set of simplified and stylized HTML elements
 - [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
