@@ -768,6 +768,7 @@
 
 ## others 
 
+- [Grafikart/olympics-medals](https://github.com/Grafikart/olympics-medals) - 
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [Applelo/vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - Add BrowserSync in your Vite project
