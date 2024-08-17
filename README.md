@@ -94,6 +94,7 @@
 
 ## HTML 
 
+- [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [them-es/starter-fse](https://github.com/them-es/starter-fse) - "FSE" WordPress block-based Starter Theme.
 - [tristen/hoverintent](https://github.com/tristen/hoverintent) - :mouse: Fire mouse events when a user intends it
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
