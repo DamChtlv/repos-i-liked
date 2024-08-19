@@ -120,6 +120,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -773,6 +774,7 @@
 
 ## others 
 
+- [ndiego/like-button](https://github.com/ndiego/like-button) - A basic Like button block for WordPress
 - [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [Grafikart/olympics-medals](https://github.com/Grafikart/olympics-medals) - 
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
@@ -791,7 +793,6 @@
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
 - [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
-- [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [dmitriynazaratiy/splide-extension-auto-scroll](https://github.com/dmitriynazaratiy/splide-extension-auto-scroll) - The Splide extension for continuously scrolling the slider.
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [dilaouid/steam-wgp](https://github.com/dilaouid/steam-wgp) - 🎮 What are we Going to Play? Which game are you gonna play with your steam friend ? WebApp version.
@@ -857,7 +858,6 @@
 - [darkroomengineering/tempus](https://github.com/darkroomengineering/tempus) - Use only one requestAnimationFrame for your whole app
 - [codrops/MagneticButtons](https://github.com/codrops/MagneticButtons) - A set of buttons with a magnetic interaction and a hover effect.
 - [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
-- [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - A Flow Launcher plugin that let you search tailwindcss classes and open their docs in your browser — just type tw and simply search
 - [0beqz/realism-effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - Effects to enhance your three.js scene's realism
 - [pmndrs/react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - 📺 Offscreen worker canvas for react-three-fiber
 - [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link 
@@ -910,7 +910,6 @@
 - [hawkidoki/TailwindAPI-PHP-SDK](https://github.com/hawkidoki/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
 - [shshaw/reticool](https://github.com/shshaw/reticool) - RETICOOL: Chase the cursor with style
 - [WP-API/node-wpapi](https://github.com/WP-API/node-wpapi) - An isomorphic JavaScript client for the WordPress REST API
-- [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [acf-extended/WP-Tinkerwell](https://github.com/acf-extended/WP-Tinkerwell) - 
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
@@ -1180,6 +1179,22 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 
+## tailwindcss 
+
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
+- [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
+- [gregsullivan/_tw](https://github.com/gregsullivan/_tw) - The _tw generator creates a WordPress starter theme optimized for modern development with Tailwind CSS, Tailwind Typography and the WordPress editor.
+- [WP-Performance/press-wind](https://github.com/WP-Performance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
+- [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
+- [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - A Flow Launcher plugin that let you search tailwindcss classes and open their docs in your browser — just type tw and simply search
+- [Pilot-in/PiloPress](https://github.com/Pilot-in/PiloPress) - The most advanced WordPress Page Builder using Advanced Custom Fields & TailwindCSS
+- [rootwork/GET](https://github.com/rootwork/GET) - GET: Gulp, ES6, TailwindCSS
+- [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
+- [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
+
 ## telegram 
 
 - [meetfranz/franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
@@ -1308,6 +1323,9 @@
 
 ## wordpress 
 
+- [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
+- [ndiego/block-visibility](https://github.com/ndiego/block-visibility) - Conditional visibility controls for all WordPress blocks.
+- [ndiego/enable-button-icons](https://github.com/ndiego/enable-button-icons) - Easily add icons to Button blocks in WordPress.
 - [mainwp/mainwp](https://github.com/mainwp/mainwp) - The MainWP Dashboard is an open source self-hosted WordPress management plugin that allows you to maintain virtually all aspects of multiple WordPress sites.
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
