@@ -122,6 +122,8 @@
 
 ## JavaScript 
 
+- [ndiego/like-button](https://github.com/ndiego/like-button) - A basic Like button block for WordPress
+- [ndiego/block-visibility](https://github.com/ndiego/block-visibility) - Conditional visibility controls for all WordPress blocks.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) - GitHub Action for deploying code via rsync over ssh. (with NodeJS)
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
@@ -328,6 +330,7 @@
 
 ## PHP 
 
+- [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
 - [iamntz/wp-vite-manifest](https://github.com/iamntz/wp-vite-manifest) - 
 - [mainwp/mainwp](https://github.com/mainwp/mainwp) - The MainWP Dashboard is an open source self-hosted WordPress management plugin that allows you to maintain virtually all aspects of multiple WordPress sites.
 - [swissspidy/wp-performance-action](https://github.com/swissspidy/wp-performance-action) - Reusable GitHub action to measure performance metrics of WordPress sites
@@ -474,6 +477,7 @@
 
 ## SCSS 
 
+- [ndiego/enable-button-icons](https://github.com/ndiego/enable-button-icons) - Easily add icons to Button blocks in WordPress.
 - [BeAPI/beapi-frontend-framework](https://github.com/BeAPI/beapi-frontend-framework) - WordPress friendly Front-End framework.
 - [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
 - [inuitcss/inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
