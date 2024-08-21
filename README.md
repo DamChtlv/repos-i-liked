@@ -94,7 +94,6 @@
 
 ## HTML 
 
-- [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [them-es/starter-fse](https://github.com/them-es/starter-fse) - Block-based "FSE" WordPress Starter Theme.
 - [tristen/hoverintent](https://github.com/tristen/hoverintent) - :mouse: Fire mouse events when a user intends it
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
@@ -331,6 +330,7 @@
 ## PHP 
 
 - [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
+- [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [iamntz/wp-vite-manifest](https://github.com/iamntz/wp-vite-manifest) - 
 - [mainwp/mainwp](https://github.com/mainwp/mainwp) - The MainWP Dashboard is an open source self-hosted WordPress management plugin that allows you to maintain virtually all aspects of multiple WordPress sites.
 - [swissspidy/wp-performance-action](https://github.com/swissspidy/wp-performance-action) - Reusable GitHub action to measure performance metrics of WordPress sites
