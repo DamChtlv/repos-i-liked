@@ -1005,6 +1005,7 @@
 
 ## php 
 
+- [lokalise/php-lokalise-api](https://github.com/lokalise/php-lokalise-api) - Lokalise API v2 PHP library.
 - [gturpin-dev/OOWPrise](https://github.com/gturpin-dev/OOWPrise) - OOWPrise is a WordPress starter theme that heavily employs object-oriented programming techniques and modern WordPress tools.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [PHPCompatibility/PHPCompatibilityWP](https://github.com/PHPCompatibility/PHPCompatibilityWP) - PHPCompatibility ruleset for WordPress projects
@@ -1181,6 +1182,7 @@
 
 ## tailwindcss 
 
+- [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
