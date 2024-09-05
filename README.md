@@ -121,6 +121,7 @@
 
 ## JavaScript 
 
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [webaxones/consistency](https://github.com/webaxones/consistency) - The purpose of this plugin is to provide a Typographical Corrector for Gutenberg
 - [frommybrain/r3f-starter](https://github.com/frommybrain/r3f-starter) - React Three Fiber Starter with NextJS
 - [frommybrain/usefulUtils](https://github.com/frommybrain/usefulUtils) - A Bunch of utils I use for most things
@@ -317,7 +318,6 @@
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
