@@ -121,6 +121,7 @@
 
 ## JavaScript 
 
+- [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [webaxones/consistency](https://github.com/webaxones/consistency) - The purpose of this plugin is to provide a Typographical Corrector for Gutenberg
 - [frommybrain/r3f-starter](https://github.com/frommybrain/r3f-starter) - React Three Fiber Starter with NextJS
