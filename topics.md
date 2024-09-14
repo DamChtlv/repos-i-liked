@@ -763,6 +763,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
+- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [primus/eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -857,7 +858,6 @@
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
 - [kleisauke/wasm-vips](https://github.com/kleisauke/wasm-vips) - libvips for the browser and Node.js, compiled to WebAssembly with Emscripten.
 - [kevinpainchaud/simple-ftp-deploy-action](https://github.com/kevinpainchaud/simple-ftp-deploy-action) - Deploy files to an FTP server using GitHub actions
-- [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) - 
 - [WordPress/performance](https://github.com/WordPress/performance) - Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.
 - [tomusborne/generatepress](https://github.com/tomusborne/generatepress) - 
