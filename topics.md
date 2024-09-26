@@ -498,6 +498,7 @@
 
 ## hacktoberfest 
 
+- [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -799,7 +800,6 @@
 - [frommybrain/r3f-starter](https://github.com/frommybrain/r3f-starter) - React Three Fiber Starter with NextJS
 - [frommybrain/usefulUtils](https://github.com/frommybrain/usefulUtils) - A Bunch of utils I use for most things
 - [ndiego/like-button](https://github.com/ndiego/like-button) - A basic Like button block for WordPress
-- [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [Grafikart/olympics-medals](https://github.com/Grafikart/olympics-medals) - 
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
@@ -1156,7 +1156,7 @@
 
 ## sass 
 
-- [them-es/starter-fse](https://github.com/them-es/starter-fse) - Block-based "FSE" WordPress Starter Theme.
+- [them-es/starter-fse](https://github.com/them-es/starter-fse) - "Full Site Editing" WordPress Blocks Starter Theme.
 - [roots/bud](https://github.com/roots/bud) - High-performance build system that supports SWC, esbuild, and Babel
 - [rootwork/GET](https://github.com/rootwork/GET) - GET: Gulp, ES6, TailwindCSS
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
@@ -1363,7 +1363,7 @@
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
-- [them-es/starter-fse](https://github.com/them-es/starter-fse) - Block-based "FSE" WordPress Starter Theme.
+- [them-es/starter-fse](https://github.com/them-es/starter-fse) - "Full Site Editing" WordPress Blocks Starter Theme.
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [lgladdy/acf-escaping-debug-plugin](https://github.com/lgladdy/acf-escaping-debug-plugin) - A WordPress plugin to enable debug error logging whenever ACF will modify or remove potentially unsafe when using the shortcode, the_field or the_sub_field
 - [gturpin-dev/OOWPrise](https://github.com/gturpin-dev/OOWPrise) - OOWPrise is a WordPress starter theme that heavily employs object-oriented programming techniques and modern WordPress tools.
