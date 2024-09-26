@@ -95,7 +95,7 @@
 
 ## HTML 
 
-- [them-es/starter-fse](https://github.com/them-es/starter-fse) - Block-based "FSE" WordPress Starter Theme.
+- [them-es/starter-fse](https://github.com/them-es/starter-fse) - "Full Site Editing" WordPress Blocks Starter Theme.
 - [tristen/hoverintent](https://github.com/tristen/hoverintent) - :mouse: Fire mouse events when a user intends it
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
 - [egstad-construct/detect-scroll](https://github.com/egstad-construct/detect-scroll) - 
