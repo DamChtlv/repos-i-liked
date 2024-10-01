@@ -334,6 +334,8 @@
 
 ## PHP 
 
+- [skouerr/skouerr-theme](https://github.com/skouerr/skouerr-theme) - 
+- [skouerr/skouerr-cli](https://github.com/skouerr/skouerr-cli) - 
 - [lokalise/php-lokalise-api](https://github.com/lokalise/php-lokalise-api) - Lokalise API v2 PHP library.
 - [ndiego/social-sharing-block](https://github.com/ndiego/social-sharing-block) - Easily add social share icons to your website.
 - [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
