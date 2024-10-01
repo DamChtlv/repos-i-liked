@@ -796,6 +796,8 @@
 
 ## others 
 
+- [skouerr/skouerr-theme](https://github.com/skouerr/skouerr-theme) - 
+- [skouerr/skouerr-cli](https://github.com/skouerr/skouerr-cli) - 
 - [webaxones/consistency](https://github.com/webaxones/consistency) - The purpose of this plugin is to provide a Typographical Corrector for Gutenberg
 - [frommybrain/r3f-starter](https://github.com/frommybrain/r3f-starter) - React Three Fiber Starter with NextJS
 - [frommybrain/usefulUtils](https://github.com/frommybrain/usefulUtils) - A Bunch of utils I use for most things
