@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
@@ -32,10 +31,6 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
-
-## Batchfile 
-
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Bikeshed 
 
@@ -449,6 +444,7 @@
 
 ## PowerShell 
 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [iandiv/StartAllBack-Cleanup](https://github.com/iandiv/StartAllBack-Cleanup) - This script will clean up the registry keys
 
 ## Python 
@@ -524,7 +520,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [dmitriynazaratiy/splide-extension-auto-scroll](https://github.com/dmitriynazaratiy/splide-extension-auto-scroll) - The Splide extension for continuously scrolling the slider.
 - [dilaouid/steam-wgp](https://github.com/dilaouid/steam-wgp) - 🎮 What are we Going to Play? Which game are you gonna play with your steam friend ? WebApp version.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
