@@ -161,7 +161,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
-- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
+- [nuejs/nue](https://github.com/nuejs/nue) - The UX Framework for the Web
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup) - Backup photos from Google Photos using Playwright.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
