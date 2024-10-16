@@ -117,6 +117,7 @@
 
 ## JavaScript 
 
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [webaxones/consistency](https://github.com/webaxones/consistency) - The purpose of this plugin is to provide a Typographical Corrector for Gutenberg
