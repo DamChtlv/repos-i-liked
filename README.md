@@ -377,7 +377,7 @@
 - [8bit-echo/sage-vite](https://github.com/8bit-echo/sage-vite) - A WordPress theme based on sage with Vite tooling and HMR Support
 - [andrefelipe/vite-php-setup](https://github.com/andrefelipe/vite-php-setup) - Example on how to run Vite on traditional PHP sites
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [senkustream/wp-vite-theme](https://github.com/senkustream/wp-vite-theme) - Proof of Concept (PoC) WordPress theme integrate with ViteJS.
+- [senkulabs/wp-vite-theme](https://github.com/senkulabs/wp-vite-theme) - Proof of Concept (PoC) WordPress theme integrate with ViteJS.
 - [idleberg/php-wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Injects assets from a Vite manifest to the Wordpress head, supports themes and plugins
 - [szepeviktor/phpstan-wordpress](https://github.com/szepeviktor/phpstan-wordpress) - WordPress extensions for PHPStan ⛏️
 - [PHPCSStandards/composer-installer](https://github.com/PHPCSStandards/composer-installer) - Composer installer for PHP_CodeSniffer coding standards
@@ -517,7 +517,7 @@
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Scale utilities smoothly between breakpoints with CSS clamp().
+- [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [Applelo/vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - Add BrowserSync in your Vite project
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
