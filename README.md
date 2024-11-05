@@ -329,6 +329,7 @@
 
 ## PHP 
 
+- [litespeedtech/lscache_wp](https://github.com/litespeedtech/lscache_wp) - LiteSpeed Cache for WordPress
 - [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - A lil plugin that bulk creates Troy's WAF rules for each domain in an account.
 - [skouerr/skouerr-theme](https://github.com/skouerr/skouerr-theme) - 
 - [skouerr/skouerr-cli](https://github.com/skouerr/skouerr-cli) - 
@@ -515,6 +516,7 @@
 
 ## TypeScript 
 
+- [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
