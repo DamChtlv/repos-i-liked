@@ -166,6 +166,7 @@
 ## analytics 
 
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 
 ## angular 
@@ -974,7 +975,6 @@
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic, Optimize Your UX" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
