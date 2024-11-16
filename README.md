@@ -42,7 +42,6 @@
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [snielsen/DeathToDSStore](https://github.com/snielsen/DeathToDSStore) - .DS_Store is an abomination and must be stopped.
-- [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 
 ## C# # 
@@ -59,6 +58,7 @@
 
 - [kleisauke/wasm-vips](https://github.com/kleisauke/wasm-vips) - libvips for the browser and Node.js, compiled to WebAssembly with Emscripten.
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 
 ## CSS 
 
