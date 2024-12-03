@@ -177,7 +177,7 @@
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [darkroomengineering/tempus](https://github.com/darkroomengineering/tempus) - Use only one requestAnimationFrame for your whole app
 - [codrops/MagneticButtons](https://github.com/codrops/MagneticButtons) - A set of buttons with a magnetic interaction and a hover effect.
-- [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
+- [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle) - Categorize, sort, and filter a responsive grid of items
 - [sarathsaleem/grained](https://github.com/sarathsaleem/grained) - Generate animated noise texture with grained.js
 - [shshaw/Splitting](https://github.com/shshaw/Splitting) - JavaScript microlibrary to split an element by words, characters, children and more, populated with CSS variables!
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -330,6 +330,7 @@
 
 ## PHP 
 
+- [afragen/git-updater-lite](https://github.com/afragen/git-updater-lite) - Lightweight class to integrate for standalone plugin/theme updates.
 - [BeAPI/phpwpinfo](https://github.com/BeAPI/phpwpinfo) - Provides an equivalent to the `phpinfo()` but with more WordPress requirements details.
 - [aspirepress/AspireCloud](https://github.com/aspirepress/AspireCloud) - AspireCloud is designed to act as an API server and passthrough endpoint for WP.org (where the endpoints are not implemented by us).
 - [litespeedtech/lscache_wp](https://github.com/litespeedtech/lscache_wp) - LiteSpeed Cache for WordPress
@@ -519,6 +520,7 @@
 
 ## TypeScript 
 
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host and open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, and Vite.  https://someday-de
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
