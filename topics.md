@@ -813,6 +813,8 @@
 
 ## others 
 
+- [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby) - A fast and minimal alternative to globby and fast-glob
+- [nystudio107/rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS
 - [afragen/git-updater-lite](https://github.com/afragen/git-updater-lite) - Lightweight class to integrate for standalone plugin/theme updates.
 - [MarieComet/convert-classic-to-gutenberg](https://github.com/MarieComet/convert-classic-to-gutenberg) - 
 - [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
