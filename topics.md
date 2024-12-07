@@ -813,6 +813,7 @@
 
 ## others 
 
+- [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by darkroom.engineering and designed by Studio Freight to generate and customize character-based imagery.
 - [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby) - A fast and minimal alternative to globby and fast-glob
 - [nystudio107/rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS
 - [afragen/git-updater-lite](https://github.com/afragen/git-updater-lite) - Lightweight class to integrate for standalone plugin/theme updates.
