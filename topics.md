@@ -589,6 +589,7 @@
 
 ## javascript 
 
+- [georgemandis/konami-js](https://github.com/georgemandis/konami-js) - Adding the Konami Code easter egg to your projects since 2009! Compatible with gestures on smartphones and tablets as well. Compatible with all front-end frameworks and vanilla JavaScript
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
