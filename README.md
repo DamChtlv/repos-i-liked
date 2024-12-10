@@ -117,6 +117,7 @@
 
 ## JavaScript 
 
+- [georgemandis/konami-js](https://github.com/georgemandis/konami-js) - Adding the Konami Code easter egg to your projects since 2009! Compatible with gestures on smartphones and tablets as well. Compatible with all front-end frameworks and vanilla JavaScript
 - [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by darkroom.engineering and designed by Studio Freight to generate and customize character-based imagery.
 - [MarieComet/convert-classic-to-gutenberg](https://github.com/MarieComet/convert-classic-to-gutenberg) - 
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
