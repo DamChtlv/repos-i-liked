@@ -522,6 +522,7 @@
 
 ## TypeScript 
 
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby) - A fast and minimal alternative to globby and fast-glob
 - [nystudio107/rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
