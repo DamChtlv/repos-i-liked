@@ -509,6 +509,7 @@
 
 ## hacktoberfest 
 
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) - 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
