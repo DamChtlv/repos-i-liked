@@ -332,6 +332,8 @@
 
 ## PHP 
 
+- [pH-7/Obfuscator-Class](https://github.com/pH-7/Obfuscator-Class) - :man_technologist: Simple and effective Obfuscator PHP class (this is not a stupid base64 encoding script, but a real and effective obfuscation script)
+- [felixarntz/ai-services](https://github.com/felixarntz/ai-services) - Makes AI centrally available in WordPress, whether via PHP, REST API, JavaScript, or WP-CLI - for any provider.
 - [afragen/git-updater-lite](https://github.com/afragen/git-updater-lite) - Lightweight class to integrate for standalone plugin/theme updates.
 - [BeAPI/phpwpinfo](https://github.com/BeAPI/phpwpinfo) - Provides an equivalent to the `phpinfo()` but with more WordPress requirements details.
 - [aspirepress/AspireCloud](https://github.com/aspirepress/AspireCloud) - AspireCloud is designed to act as an API server and passthrough endpoint for WP.org (where the endpoints are not implemented by us).
