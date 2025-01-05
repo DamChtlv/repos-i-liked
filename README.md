@@ -333,6 +333,7 @@
 
 ## PHP 
 
+- [EstebanForge/UnrePress](https://github.com/EstebanForge/UnrePress) - An independent Core, Plugins and Themes updater for WordPress. No wp.org dependency.
 - [pH-7/Obfuscator-Class](https://github.com/pH-7/Obfuscator-Class) - :man_technologist: Simple and effective Obfuscator PHP class (this is not a stupid base64 encoding script, but a real and effective obfuscation script)
 - [felixarntz/ai-services](https://github.com/felixarntz/ai-services) - Makes AI centrally available in WordPress, whether via PHP, REST API, JavaScript, or WP-CLI - for any provider.
 - [afragen/git-updater-lite](https://github.com/afragen/git-updater-lite) - Lightweight class to integrate for standalone plugin/theme updates.
@@ -451,7 +452,7 @@
 - [billrobclark/alfred-phpdoc-search](https://github.com/billrobclark/alfred-phpdoc-search) - An Alfred Workflow to Quickly Search the PHP Documentation
 - [roots/sage-woocommerce](https://github.com/roots/sage-woocommerce) - WooCommerce integration for Sage 9 themes
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 
 ## PowerShell 
 
