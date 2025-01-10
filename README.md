@@ -451,7 +451,7 @@
 - [JulioPotier/SecuPress-Backdoor-User](https://github.com/JulioPotier/SecuPress-Backdoor-User) - Upload file / Access file / You are now admin.
 - [airesvsg/acf-to-rest-api](https://github.com/airesvsg/acf-to-rest-api) - Exposes Advanced Custom Fields Endpoints in the WordPress REST API
 - [wp-sync-db/wp-sync-db](https://github.com/wp-sync-db/wp-sync-db) - A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations.
-- [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
+- [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [shuber/curl](https://github.com/shuber/curl) - A basic CURL wrapper for PHP
 - [tcdent/php-restclient](https://github.com/tcdent/php-restclient) - A generic REST API client for PHP
 - [billrobclark/alfred-phpdoc-search](https://github.com/billrobclark/alfred-phpdoc-search) - An Alfred Workflow to Quickly Search the PHP Documentation
