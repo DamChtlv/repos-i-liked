@@ -346,7 +346,7 @@
 
 ## design 
 
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
@@ -606,7 +606,7 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Morglod/tseep](https://github.com/Morglod/tseep) - Fastest event emitter in the world for js (and only 381 bytes in build)
@@ -849,8 +849,8 @@
 - [DamChtlv/Plugin-Tags](https://github.com/DamChtlv/Plugin-Tags) - "Plugin tags" WordPress plugin
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
-- [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
-- [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
+- [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - Enables the creation of sequential animations based on in-view detection using custom data-inview-* attributes in the DOM. Powered by GSAP.
+- [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - Facilitates powerful GSAP animations with custom data-onscroll-* attributes in the DOM, using GSAP and ScrollTrigger for scroll-based parallax, custom transforms, and progressive animations.
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
