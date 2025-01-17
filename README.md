@@ -138,8 +138,8 @@
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
-- [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - 
-- [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - 
+- [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - Enables the creation of sequential animations based on in-view detection using custom data-inview-* attributes in the DOM. Powered by GSAP.
+- [coderesolution/onscroll-detection](https://github.com/coderesolution/onscroll-detection) - Facilitates powerful GSAP animations with custom data-onscroll-* attributes in the DOM, using GSAP and ScrollTrigger for scroll-based parallax, custom transforms, and progressive animations.
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
 - [postcss/postcss-import](https://github.com/postcss/postcss-import) - PostCSS plugin to inline at-import rules content
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
@@ -169,7 +169,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [WordPress/gutenberg-examples](https://github.com/WordPress/gutenberg-examples) - Examples for extending WordPress/Gutenberg with blocks.
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [vikas5914/google-photos-backup](https://github.com/vikas5914/google-photos-backup) - Backup photos from Google Photos using Playwright.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
