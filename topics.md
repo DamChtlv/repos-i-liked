@@ -591,6 +591,7 @@
 
 ## javascript 
 
+- [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [georgemandis/konami-js](https://github.com/georgemandis/konami-js) - Adding the Konami Code easter egg to your projects since 2009! Compatible with gestures on smartphones and tablets as well. Compatible with all front-end frameworks and vanilla JavaScript
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
@@ -704,6 +705,7 @@
 
 ## library 
 
+- [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
 - [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
@@ -819,6 +821,9 @@
 
 ## others 
 
+- [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
+- [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
+- [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
 - [Tolexia/threejs-image-particles-transition](https://github.com/Tolexia/threejs-image-particles-transition) - 
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - 
@@ -1297,6 +1302,7 @@
 
 ## typescript 
 
+- [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, an
 - [johnpapa/vscode-peacock](https://github.com/johnpapa/vscode-peacock) - Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
