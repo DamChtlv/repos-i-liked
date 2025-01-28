@@ -15,6 +15,7 @@
 - [HTML](#html)
 - [JSON](#json)
 - [JavaScript](#javascript)
+- [Liquid](#liquid)
 - [MDX](#mdx)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
@@ -78,6 +79,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -122,7 +124,6 @@
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
 - [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
-- [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - 
 - [georgemandis/konami-js](https://github.com/georgemandis/konami-js) - Adding the Konami Code easter egg to your projects since 2009! Compatible with gestures on smartphones and tablets as well. Compatible with all front-end frameworks and vanilla JavaScript
 - [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by darkroom.engineering and designed by Studio Freight to generate and customize character-based imagery.
 - [MarieComet/convert-classic-to-gutenberg](https://github.com/MarieComet/convert-classic-to-gutenberg) - 
@@ -157,7 +158,7 @@
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [wpperformance/press-wind](https://github.com/wpperformance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
 - [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [colorful-tones/acf-slider-block](https://github.com/colorful-tones/acf-slider-block) - A slider carousel block with ACF Blocks and SwiperJS
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
@@ -299,6 +300,10 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+## Liquid 
+
+- [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - 
 
 ## MDX 
 
@@ -533,6 +538,8 @@
 
 ## TypeScript 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [aarsteinmedia/dotlottie-player-light](https://github.com/aarsteinmedia/dotlottie-player-light) - Light Web Component for playing SVG Lottie animations in your web app. Previously @johanaarstein/dotlottie-player-light
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features
 - [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
