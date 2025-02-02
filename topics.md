@@ -847,7 +847,7 @@
 - [MarieComet/convert-classic-to-gutenberg](https://github.com/MarieComet/convert-classic-to-gutenberg) - 
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
-- [aspirepress/AspireCloud](https://github.com/aspirepress/AspireCloud) - AspireCloud is designed to act as an API server and passthrough endpoint for WP.org (where the endpoints are not implemented by us).
+- [aspirepress/AspireCloud](https://github.com/aspirepress/AspireCloud) - AspireCloud is an API server for WordPress, partially implementing the api.wp.org specifications, and proxying the rest
 - [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - A lil plugin that bulk creates Troy's WAF rules for each domain in an account.
 - [skouerr/skouerr-theme](https://github.com/skouerr/skouerr-theme) - 
 - [skouerr/skouerr-cli](https://github.com/skouerr/skouerr-cli) - 
