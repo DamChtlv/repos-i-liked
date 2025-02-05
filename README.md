@@ -341,6 +341,7 @@
 
 ## PHP 
 
+- [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
 - [EstebanForge/UnrePress](https://github.com/EstebanForge/UnrePress) - An independent Core, Plugins and Themes updater for WordPress. No wp.org dependency.
 - [pH-7/Obfuscator-Class](https://github.com/pH-7/Obfuscator-Class) - :man_technologist: Simple and effective Obfuscator PHP class (this is not a stupid base64 encoding script, but a real and effective obfuscation script)
 - [felixarntz/ai-services](https://github.com/felixarntz/ai-services) - Makes AI centrally available in WordPress, whether via PHP, REST API, JavaScript, or WP-CLI - for any provider.
