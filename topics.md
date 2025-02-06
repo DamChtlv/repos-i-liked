@@ -1496,7 +1496,7 @@
 - [yashha/wp-nuxt](https://github.com/yashha/wp-nuxt) - NOT MAINTAINED The module adds WP-API to your nuxt application.
 - [bshiluk/vue-wordpress](https://github.com/bshiluk/vue-wordpress) - Use Vue.js and the WP REST API to build WordPress themes as SPAs with dynamic routing, HMR for development, SEO enabled, and SSR capable. Demo:
 - [netlify-labs/headless-wp-nuxt](https://github.com/netlify-labs/headless-wp-nuxt) - 🏔 Headless WordPress JAMstack Template
-- [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for a11y and fast page load results.
+- [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for performance and a11y.
 - [acf-extended/ACF-Extended](https://github.com/acf-extended/ACF-Extended) - 🚀 All-in-one enhancement suite that improves WordPress & Advanced Custom Fields
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
 - [airesvsg/acf-to-rest-api](https://github.com/airesvsg/acf-to-rest-api) - Exposes Advanced Custom Fields Endpoints in the WordPress REST API
