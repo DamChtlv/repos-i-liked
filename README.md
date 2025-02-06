@@ -443,7 +443,7 @@
 - [carlalexander/wp-api-client](https://github.com/carlalexander/wp-api-client) - WordPress API client
 - [AdvancedCustomFields/acf](https://github.com/AdvancedCustomFields/acf) - Advanced Custom Fields
 - [zoho/zcrm-php-sdk](https://github.com/zoho/zcrm-php-sdk) - Zoho CRM API SDK is a wrapper to Zoho CRM APIs. By using this sdk, user can build the application with ease
-- [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for a11y and fast page load results.
+- [flyntwp/flynt](https://github.com/flyntwp/flynt) - Component based WordPress starter theme, powered by ACF Pro and Timber, optimized for performance and a11y.
 - [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files
 - [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Log in to WordPress with secure passwordless magic links.
 - [torounit/custom-post-type-permalinks](https://github.com/torounit/custom-post-type-permalinks) - Edit the permalink of custom post type !
