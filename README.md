@@ -305,7 +305,7 @@
 
 ## Liquid 
 
-- [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - 
+- [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - Cadaver is a starter Shopify Online 2.0 Theme
 
 ## MDX 
 
