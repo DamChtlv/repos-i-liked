@@ -840,7 +840,7 @@
 - [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
 - [Tolexia/threejs-image-particles-transition](https://github.com/Tolexia/threejs-image-particles-transition) - 
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
-- [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - 
+- [stefbowerman/cadaver-2.0](https://github.com/stefbowerman/cadaver-2.0) - Cadaver is a starter Shopify Online 2.0 Theme
 - [zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications
 - [felixarntz/ai-services](https://github.com/felixarntz/ai-services) - Makes AI centrally available in WordPress, whether via PHP, REST API, JavaScript, or WP-CLI - for any provider.
 - [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by darkroom.engineering and designed by Studio Freight to generate and customize character-based imagery.
