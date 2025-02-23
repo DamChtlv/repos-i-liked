@@ -298,7 +298,6 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [googlemaps/v3-utility-library](https://github.com/googlemaps/v3-utility-library) - Utility libraries for Google Maps JavaScript API v3
 - [rezozero/starting-blocks](https://github.com/rezozero/starting-blocks) - Starting Blocks is a framework for ajax page, transitions and blocks written in vanilla JS, made by Rezo Zero.
-- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -462,6 +461,7 @@
 - [tcdent/php-restclient](https://github.com/tcdent/php-restclient) - A generic REST API client for PHP
 - [roots/sage-woocommerce](https://github.com/roots/sage-woocommerce) - WooCommerce integration for Sage 9 themes
 - [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
+- [roots/sage](https://github.com/roots/sage) - WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support
 
 ## PowerShell 
 
