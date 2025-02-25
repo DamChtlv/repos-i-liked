@@ -6,6 +6,7 @@
 ## Contents
 
 - [Bikeshed](#bikeshed)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -37,6 +38,10 @@
 ## Bikeshed 
 
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
+
+## Blade 
+
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C 
 
@@ -440,7 +445,6 @@
 - [Pierre-Lannoy/wp-plugin-boilerplate](https://github.com/Pierre-Lannoy/wp-plugin-boilerplate) - My personal plugin boilerplate for WordPress.
 - [hawkidoki/TailwindAPI-PHP-SDK](https://github.com/hawkidoki/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
 - [acf-extended/WP-Tinkerwell](https://github.com/acf-extended/WP-Tinkerwell) - 
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [carlalexander/wp-api-client](https://github.com/carlalexander/wp-api-client) - WordPress API client
 - [AdvancedCustomFields/acf](https://github.com/AdvancedCustomFields/acf) - Advanced Custom Fields
 - [zoho/zcrm-php-sdk](https://github.com/zoho/zcrm-php-sdk) - Zoho CRM API SDK is a wrapper to Zoho CRM APIs. By using this sdk, user can build the application with ease
@@ -517,6 +521,7 @@
 
 ## Shell 
 
+- [AndreasAugustin/actions-template-sync](https://github.com/AndreasAugustin/actions-template-sync) - :octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tj/n](https://github.com/tj/n) - Node version management
