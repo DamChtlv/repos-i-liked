@@ -14,6 +14,7 @@
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
+- [Hack](#hack)
 - [JSON](#json)
 - [JavaScript](#javascript)
 - [Liquid](#liquid)
@@ -119,6 +120,10 @@
 - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 - [csscoder/bootstrap-silent-grid](https://github.com/csscoder/bootstrap-silent-grid) - Flex grid based on silent class SCSS and Bootstrap 4 grid (Bootstrap naming class)
+
+## Hack 
+
+- [BeAPI/beapi-maintenance-mode](https://github.com/BeAPI/beapi-maintenance-mode) - Puts your WordPress site into maintenance mode.
 
 ## JSON 
 
@@ -548,7 +553,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [aarsteinmedia/dotlottie-player-light](https://github.com/aarsteinmedia/dotlottie-player-light) - Light Web Component for playing SVG Lottie animations in your web app. Previously @johanaarstein/dotlottie-player-light
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
 - [Tolexia/threejs-image-particles-transition](https://github.com/Tolexia/threejs-image-particles-transition) - 
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
