@@ -538,7 +538,6 @@
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -836,7 +835,7 @@
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
 - [aarsteinmedia/dotlottie-player-light](https://github.com/aarsteinmedia/dotlottie-player-light) - Light Web Component for playing SVG Lottie animations in your web app. Previously @johanaarstein/dotlottie-player-light
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
 - [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
@@ -1436,6 +1435,7 @@
 
 ## wordpress 
 
+- [BeAPI/beapi-maintenance-mode](https://github.com/BeAPI/beapi-maintenance-mode) - Puts your WordPress site into maintenance mode.
 - [EstebanForge/UnrePress](https://github.com/EstebanForge/UnrePress) - An independent Core, Plugins and Themes updater for WordPress. No wp.org dependency.
 - [BeAPI/phpwpinfo](https://github.com/BeAPI/phpwpinfo) - Provides an equivalent to the `phpinfo()` but with more WordPress requirements details.
 - [litespeedtech/lscache_wp](https://github.com/litespeedtech/lscache_wp) - LiteSpeed Cache for WordPress
