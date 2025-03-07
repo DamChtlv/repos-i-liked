@@ -98,7 +98,6 @@
 
 ## HTML 
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [them-es/starter-fse](https://github.com/them-es/starter-fse) - "Full Site Editing" WordPress Blocks Starter Theme.
 - [tristen/hoverintent](https://github.com/tristen/hoverintent) - :mouse: Fire mouse events when a user intends it
 - [carolinan/fullsiteediting](https://github.com/carolinan/fullsiteediting) - 
@@ -481,6 +480,7 @@
 
 ## Python 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [cnumr/ecoindex_cli](https://github.com/cnumr/ecoindex_cli) - This tool provides an easy way to analyze websites with Ecoindex from your local computer. You have the ability to make the analysis on multiple pages with multiple screen resolution. You can also mak
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -551,6 +551,7 @@
 
 ## TypeScript 
 
+- [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [imandresi/ovh-mail-manager](https://github.com/imandresi/ovh-mail-manager) - Application allowing old MX Plan OVH users to change their RoundCube email passwords outside the OVHcloud manager account.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
