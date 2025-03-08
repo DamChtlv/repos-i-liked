@@ -835,6 +835,7 @@
 
 ## others 
 
+- [sshtunnelvision/MCP-LOGO-GEN](https://github.com/sshtunnelvision/MCP-LOGO-GEN) - 
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [BeAPI/wp-dsfr](https://github.com/BeAPI/wp-dsfr) - WP DSFR est un portage en WordPress du Système de Design Français (ou DSFR) sous forme de thème WordPress
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
