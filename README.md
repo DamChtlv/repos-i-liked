@@ -85,7 +85,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -255,7 +255,7 @@
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Turn your traffic into valuable insights". UAParser.js: The Essential Web Development Tool for User-Agent Detection.
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
@@ -449,7 +449,7 @@
 - [simplistik/acf-ajax-form-submit](https://github.com/simplistik/acf-ajax-form-submit) - Submit a WordPress ACF front end form via AJAX, instead of it's standard POST/page refresh method.
 - [BeAPI/bea-plugin-defaults](https://github.com/BeAPI/bea-plugin-defaults) - Library of WordPress mu-plugins to set plugin's default options.
 - [Pierre-Lannoy/wp-plugin-boilerplate](https://github.com/Pierre-Lannoy/wp-plugin-boilerplate) - My personal plugin boilerplate for WordPress.
-- [hawkidoki/TailwindAPI-PHP-SDK](https://github.com/hawkidoki/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
+- [hwkdev/TailwindAPI-PHP-SDK](https://github.com/hwkdev/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
 - [acf-extended/WP-Tinkerwell](https://github.com/acf-extended/WP-Tinkerwell) - 
 - [carlalexander/wp-api-client](https://github.com/carlalexander/wp-api-client) - WordPress API client
 - [AdvancedCustomFields/acf](https://github.com/AdvancedCustomFields/acf) - Advanced Custom Fields
