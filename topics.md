@@ -171,7 +171,7 @@
 ## analytics 
 
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Turn your traffic into valuable insights". UAParser.js: The Essential Web Development Tool for User-Agent Detection.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 
 ## angular 
@@ -687,6 +687,7 @@
 
 ## js 
 
+- [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [wpperformance/presswind-assets](https://github.com/wpperformance/presswind-assets) - Assets helpers for use Vite JS in WordPress
 - [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
 - [javierbyte/timelapses](https://github.com/javierbyte/timelapses) - 
