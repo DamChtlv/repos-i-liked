@@ -536,7 +536,7 @@
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [oidc-wp/openid-connect-generic](https://github.com/oidc-wp/openid-connect-generic) - WordPress plugin to provide an OpenID Connect Generic client
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
@@ -1114,7 +1114,7 @@
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 - [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [rtCamp/action-phpcs-code-review](https://github.com/rtCamp/action-phpcs-code-review) - Github Action to perform automated code review on pull requests
