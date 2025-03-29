@@ -420,7 +420,7 @@
 - [stuttter/ludicrousdb](https://github.com/stuttter/ludicrousdb) - LudicrousDB is an advanced database interface for WordPress that supports replication, failover, load balancing, & partitioning
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [BeAPI/multisite-shared-blocks](https://github.com/BeAPI/multisite-shared-blocks) - 
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 - [BeAPI/bea-content-sync-fusion](https://github.com/BeAPI/bea-content-sync-fusion) - Synchronize contents across your Multisite.
 - [pixelcollective/wp-performant-media](https://github.com/pixelcollective/wp-performant-media) - Simple lazy loading plugin for WordPress
 - [roots/wp-stage-switcher](https://github.com/roots/wp-stage-switcher) - WordPress plugin that allows you to switch between different environments from the admin bar
