@@ -130,7 +130,7 @@
 
 ## JavaScript 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
 - [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
@@ -327,6 +327,7 @@
 
 ## Others 
 
+- [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [AdvancedCustomFields/schemas](https://github.com/AdvancedCustomFields/schemas) - Schemas for Advanced Custom Fields
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
