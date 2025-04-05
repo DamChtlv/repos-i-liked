@@ -130,6 +130,7 @@
 
 ## JavaScript 
 
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
@@ -553,6 +554,7 @@
 
 ## TypeScript 
 
+- [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
