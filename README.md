@@ -404,7 +404,7 @@
 - [wpperformance/presswind-helpers](https://github.com/wpperformance/presswind-helpers) - Plugin PressWind for use vite.js in WordPress theme
 - [wpperformance/presswind-assets](https://github.com/wpperformance/presswind-assets) - Assets helpers for use Vite JS in WordPress
 - [brandonkramer/vite-php](https://github.com/brandonkramer/vite-php) - A collection of back-end/PHP utilities for WordPress development with ViteJS.
-- [captainhookphp/captainhook](https://github.com/captainhookphp/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
+- [captainhook-git/captainhook](https://github.com/captainhook-git/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [BrainMaestro/composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config
 - [8bit-echo/sage-vite](https://github.com/8bit-echo/sage-vite) - A WordPress theme based on sage with Vite tooling and HMR Support
