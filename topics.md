@@ -38,6 +38,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -361,6 +362,12 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
+
+## development 
+
+- [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
+- [luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
 
 ## discord 
 
@@ -1211,6 +1218,7 @@
 ## rest-api 
 
 - [imandresi/ovh-mail-manager](https://github.com/imandresi/ovh-mail-manager) - Application allowing old MX Plan OVH users to change their RoundCube email passwords outside the OVHcloud manager account.
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [krestaino/nuepress](https://github.com/krestaino/nuepress) - 📖 Nuxt.js + WordPress REST API
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [yashha/wp-nuxt](https://github.com/yashha/wp-nuxt) - NOT MAINTAINED The module adds WP-API to your nuxt application.
