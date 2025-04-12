@@ -329,6 +329,7 @@
 ## Others 
 
 - [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
+- [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - A lil plugin that bulk creates Troy's WAF rules for each domain in an account.
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [AdvancedCustomFields/schemas](https://github.com/AdvancedCustomFields/schemas) - Schemas for Advanced Custom Fields
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -363,7 +364,6 @@
 - [BeAPI/phpwpinfo](https://github.com/BeAPI/phpwpinfo) - Provides an equivalent to the `phpinfo()` but with more WordPress requirements details.
 - [aspirepress/AspireCloud](https://github.com/aspirepress/AspireCloud) - AspireCloud is an API server for WordPress, partially implementing the api.wp.org specifications, and proxying the rest
 - [litespeedtech/lscache_wp](https://github.com/litespeedtech/lscache_wp) - LiteSpeed Cache for WordPress
-- [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - A lil plugin that bulk creates Troy's WAF rules for each domain in an account.
 - [skouerr/skouerr-theme](https://github.com/skouerr/skouerr-theme) - 
 - [skouerr/skouerr-cli](https://github.com/skouerr/skouerr-cli) - 
 - [lokalise/php-lokalise-api](https://github.com/lokalise/php-lokalise-api) - Lokalise API v2 PHP library.
