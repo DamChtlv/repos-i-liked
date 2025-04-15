@@ -130,6 +130,7 @@
 
 ## JavaScript 
 
+- [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - A Webpack plugin and CLI that generates dynamic Gutenberg blocks built with React and either PHP or Twig, from a single HTML file.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
