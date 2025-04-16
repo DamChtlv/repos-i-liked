@@ -138,7 +138,7 @@
 - [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [georgemandis/konami-js](https://github.com/georgemandis/konami-js) - Adding the Konami Code easter egg to your projects since 2009! Compatible with gestures on smartphones and tablets as well. Compatible with all front-end frameworks and vanilla JavaScript
-- [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by darkroom.engineering and designed by Studio Freight to generate and customize character-based imagery.
+- [darkroomengineering/aniso](https://github.com/darkroomengineering/aniso) - Aniso is an open-source ASCII tool built by darkroom.engineering to generate and customize character-based imagery.
 - [MarieComet/convert-classic-to-gutenberg](https://github.com/MarieComet/convert-classic-to-gutenberg) - 
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
@@ -262,7 +262,6 @@
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [ChrisCavs/bounds.js](https://github.com/ChrisCavs/bounds.js) - Asynchronous boundary detection - lazy-loading, infinite scroll, and more
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [darsain/fpsmeter](https://github.com/darsain/fpsmeter) - Sexy, fast, and themable FPS meter.
 - [jquery-archive/PEP](https://github.com/jquery-archive/PEP) - Pointer Events Polyfill: a unified event system for the web platform
@@ -322,6 +321,7 @@
 
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Nunjucks 
 
