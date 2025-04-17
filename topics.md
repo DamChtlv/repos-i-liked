@@ -25,6 +25,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code](#code)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
@@ -266,6 +267,10 @@
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [clean-css/clean-css-cli](https://github.com/clean-css/clean-css-cli) - The command line interface to clean-css CSS optimizer
 
+## clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
 ## code 
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -356,6 +361,7 @@
 
 ## design 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
