@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
@@ -78,6 +79,10 @@
 - [Andy-set-studio/modern-css-reset](https://github.com/Andy-set-studio/modern-css-reset) - A bare-bones CSS reset for modern web development.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [AdamMarsden/simple-typography](https://github.com/AdamMarsden/simple-typography) - A simple starting ground for beautiful typography on the web using Sass.
+
+## Clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## Dart 
 
