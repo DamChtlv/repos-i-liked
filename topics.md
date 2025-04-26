@@ -1114,6 +1114,7 @@
 
 ## php 
 
+- [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - A Webpack plugin and CLI that generates dynamic Gutenberg blocks built with React and either PHP or Twig, from a single HTML file.
 - [imandresi/ovh-mail-manager](https://github.com/imandresi/ovh-mail-manager) - Application allowing old MX Plan OVH users to change their RoundCube email passwords outside the OVHcloud manager account.
 - [pH-7/Obfuscator-Class](https://github.com/pH-7/Obfuscator-Class) - :man_technologist: Simple and effective Obfuscator PHP class (this is not a stupid base64 encoding script, but a real and effective obfuscation script)
