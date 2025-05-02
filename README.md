@@ -362,6 +362,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [brettkrueger/multisite-rest-api](https://github.com/brettkrueger/multisite-rest-api) - Adds several REST API endpoints for multisite management.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [BeAPI/wp-dsfr](https://github.com/BeAPI/wp-dsfr) - WP DSFR est un portage en WordPress du Système de Design Français (ou DSFR) sous forme de thème WordPress
