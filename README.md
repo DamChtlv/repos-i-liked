@@ -347,7 +347,7 @@
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [mdn/mdn](https://github.com/mdn/mdn) - Holding repo for MDN Web Docs things
+- [mdn/mdn](https://github.com/mdn/mdn) - Planning and proposals for MDN Web Docs content
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
