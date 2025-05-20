@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Bikeshed](#bikeshed)
 - [Blade](#blade)
 - [C](#c)
@@ -36,6 +37,10 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Astro 
+
+- [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio) - Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own.
 
 ## Bikeshed 
 
