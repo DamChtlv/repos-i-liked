@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - A Webpack plugin and CLI that generates dynamic Gutenberg blocks built with React and either PHP or Twig, from a single HTML file.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -570,6 +571,7 @@
 
 ## TypeScript 
 
+- [Iterable/iterable-web-sdk](https://github.com/Iterable/iterable-web-sdk) - Iterable SDK for interacting with the Iterable API to implement inside JavaScript and Node projects
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [adamplesnik/tailwindcss-scroll-driven-animations](https://github.com/adamplesnik/tailwindcss-scroll-driven-animations) - Unofficial and experimental plugin for Tailwind CSS v3.4+ that provides utilities for scroll-driven animations.
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
