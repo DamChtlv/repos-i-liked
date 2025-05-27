@@ -16,6 +16,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
 - [bash](#bash)
@@ -124,6 +125,7 @@
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
+- [serverless](#serverless)
 - [shell](#shell)
 - [sketch](#sketch)
 - [sqlite](#sqlite)
@@ -194,6 +196,7 @@
 
 ## api 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [airesvsg/acf-to-rest-api](https://github.com/airesvsg/acf-to-rest-api) - Exposes Advanced Custom Fields Endpoints in the WordPress REST API
 
@@ -204,6 +207,7 @@
 
 ## automation 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [captainhook-git/captainhook](https://github.com/captainhook-git/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
@@ -226,6 +230,10 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+## aws 
+
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 
 ## azure 
 
@@ -635,6 +643,8 @@
 
 ## javascript 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
+- [Iterable/iterable-web-sdk](https://github.com/Iterable/iterable-web-sdk) - Iterable SDK for interacting with the Iterable API to implement inside JavaScript and Node projects
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
@@ -1322,6 +1332,10 @@
 - [ginger51011/pandoras_pot](https://github.com/ginger51011/pandoras_pot) - HTTP honeypot to punish and educate unruly web crawlers, written in Rust (🚀)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
+## serverless 
+
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
+
 ## shell 
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -1394,6 +1408,7 @@
 
 ## testing 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
@@ -1401,6 +1416,8 @@
 
 ## typescript 
 
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
+- [Iterable/iterable-web-sdk](https://github.com/Iterable/iterable-web-sdk) - Iterable SDK for interacting with the Iterable API to implement inside JavaScript and Node projects
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
 - [rbbydotdev/someday](https://github.com/rbbydotdev/someday) - Free to host calendar availability picker - open-source cal.com / calendly alternative built on Google-Apps-Script for Gmail users. Built with modern technologies like React, TypeScript, Shadcn/UI, an
