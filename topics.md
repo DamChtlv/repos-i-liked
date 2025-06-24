@@ -471,7 +471,6 @@
 - [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
 - [github/hubot-sans](https://github.com/github/hubot-sans) - Hubot Sans, a variable font from GitHub
 - [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
-- [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [ruedap/alfred-font-awesome-workflow](https://github.com/ruedap/alfred-font-awesome-workflow) - 🎩 Font Awesome workflow for Alfred
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
