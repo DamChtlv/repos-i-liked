@@ -160,6 +160,7 @@
 
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+- [keithclark/3d-model-element](https://github.com/keithclark/3d-model-element) - A custom element for rendering inline 3D models in a HTML document and allowing them to be transformed with CSS.
 - [flowforfrank/threejs](https://github.com/flowforfrank/threejs) - 🪐 The making of Mars in Three.js
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
@@ -903,6 +904,8 @@
 
 ## others 
 
+- [ryanhellyer/stale-cache](https://github.com/ryanhellyer/stale-cache) - Stale Cache for WordPress
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio) - Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own.
 - [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
 - [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
@@ -1064,7 +1067,6 @@
 - [mattdesl/threejs-app](https://github.com/mattdesl/threejs-app) - Some opinionated structure for a complex/scalable ThreeJS app
 - [marcofugaro/shrimpc.at](https://github.com/marcofugaro/shrimpc.at) - 🐱 Meow
 - [marcofugaro/threejs-modern-app](https://github.com/marcofugaro/threejs-modern-app) - Boilerplate and utils for a fullscreen Three.js app
-- [keithclark/3d-model-element](https://github.com/keithclark/3d-model-element) - A custom element for rendering inline 3D models in a HTML document and allowing them to be transformed with CSS.
 - [ashthornton/asscroll](https://github.com/ashthornton/asscroll) - Ash's Smooth Scroll 🍑
 - [hwkdev/TailwindAPI-PHP-SDK](https://github.com/hwkdev/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
 - [shshaw/reticool](https://github.com/shshaw/reticool) - RETICOOL: Chase the cursor with style
