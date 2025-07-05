@@ -1316,7 +1316,7 @@
 
 ## sass 
 
-- [them-es/starter-fse](https://github.com/them-es/starter-fse) - "Full Site Editing" WordPress Blocks Starter Theme.
+- [them-es/starter-fse](https://github.com/them-es/starter-fse) - Full Site Editing "Blocks" WordPress Starter Theme.
 - [roots/bud](https://github.com/roots/bud) - Build tool that wraps webpack complexity behind an elegant, minimal API
 - [rootwork/GET](https://github.com/rootwork/GET) - GET: Gulp, ES6, TailwindCSS
 - [twbs/rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
@@ -1582,7 +1582,7 @@
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
-- [them-es/starter-fse](https://github.com/them-es/starter-fse) - "Full Site Editing" WordPress Blocks Starter Theme.
+- [them-es/starter-fse](https://github.com/them-es/starter-fse) - Full Site Editing "Blocks" WordPress Starter Theme.
 - [gregsullivan/_tw-themejson](https://github.com/gregsullivan/_tw-themejson) - A Tailwind CSS plugin that automatically pulls colors and widths from a WordPress theme’s theme.json file
 - [lgladdy/acf-escaping-debug-plugin](https://github.com/lgladdy/acf-escaping-debug-plugin) - A WordPress plugin to enable debug error logging whenever ACF will modify or remove potentially unsafe when using the shortcode, the_field or the_sub_field
 - [gturpin-dev/OOWPrise](https://github.com/gturpin-dev/OOWPrise) - OOWPrise is a WordPress starter theme that heavily employs object-oriented programming techniques and modern WordPress tools.
