@@ -904,6 +904,7 @@
 
 ## others 
 
+- [Automattic/remote-data-blocks](https://github.com/Automattic/remote-data-blocks) - Remote Data Blocks: a WordPress plugin for creating flexible, data-enriched content with remote data integration
 - [ryanhellyer/stale-cache](https://github.com/ryanhellyer/stale-cache) - Stale Cache for WordPress
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio) - Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own.
@@ -1166,6 +1167,7 @@
 
 ## php 
 
+- [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
@@ -1570,6 +1572,7 @@
 
 ## wordpress 
 
+- [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - Create custom Gutenberg blocks from the HTML templates you already have.
 - [BeAPI/beapi-maintenance-mode](https://github.com/BeAPI/beapi-maintenance-mode) - Puts your WordPress site into maintenance mode.
 - [EstebanForge/UnrePress](https://github.com/EstebanForge/UnrePress) - An independent Core, Plugins and Themes updater for WordPress. No wp.org dependency.
