@@ -363,6 +363,7 @@
 
 ## PHP 
 
+- [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [Automattic/remote-data-blocks](https://github.com/Automattic/remote-data-blocks) - Remote Data Blocks: a WordPress plugin for creating flexible, data-enriched content with remote data integration
 - [ryanhellyer/stale-cache](https://github.com/ryanhellyer/stale-cache) - Stale Cache for WordPress
@@ -578,7 +579,7 @@
 - [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel) - A lightweight carousel library with fluid motion and great swipe precision.
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [imandresi/ovh-mail-manager](https://github.com/imandresi/ovh-mail-manager) - Application allowing old MX Plan OVH users to change their RoundCube email passwords outside the OVHcloud manager account.
