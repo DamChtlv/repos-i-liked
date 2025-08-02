@@ -62,6 +62,7 @@
 - [game](#game)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
@@ -156,6 +157,7 @@
 - [wordpress](#wordpress)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -169,6 +171,8 @@
 
 ## ai 
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -403,6 +407,7 @@
 
 ## development 
 
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
@@ -535,11 +540,16 @@
 
 ## github 
 
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 - [AndreasAugustin/actions-template-sync](https://github.com/AndreasAugustin/actions-template-sync) - :octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+
+## github-api 
+
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 
 ## go 
 
@@ -577,6 +587,7 @@
 
 ## hacktoberfest 
 
+- [NielsdeBlaauw/query-monitor-twig-profile](https://github.com/NielsdeBlaauw/query-monitor-twig-profile) - Displays Twig profiler output in Query Monitor
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [brettkrueger/multisite-rest-api](https://github.com/brettkrueger/multisite-rest-api) - Adds several REST API endpoints for multisite management.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
@@ -795,6 +806,7 @@
 
 ## llm 
 
+- [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
@@ -912,6 +924,9 @@
 
 ## others 
 
+- [crstauf/query-monitor-extend](https://github.com/crstauf/query-monitor-extend) - WordPress plugin with customizations to enhance and extend the already awesome Query Monitor plugin.
+- [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass) - MCP Discovery & Recommendation Service - Find the right MCP server for your needs
+- [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) - An MCP server for interacting with Sentry via LLMs.
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server
 - [Automattic/remote-data-blocks](https://github.com/Automattic/remote-data-blocks) - Remote Data Blocks: a WordPress plugin for creating flexible, data-enriched content with remote data integration
 - [ryanhellyer/stale-cache](https://github.com/ryanhellyer/stale-cache) - Stale Cache for WordPress
@@ -925,7 +940,7 @@
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
 - [aarsteinmedia/dotlottie-player-light](https://github.com/aarsteinmedia/dotlottie-player-light) - Light Web Component for playing SVG Lottie animations in your web app. Previously @johanaarstein/dotlottie-player-light
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
 - [hellogreg/woff2base](https://github.com/hellogreg/woff2base) - This simple tool converts .woff2 font files to Base64 strings to include in your CSS files.
@@ -1019,7 +1034,6 @@
 - [wp-media/wp-rocket-helpers](https://github.com/wp-media/wp-rocket-helpers) - 🚀 Helper plugins for specific use cases with WP Rocket. ☝️ TEST BEFORE USE! ☝️
 - [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions) - Some inspiration for transitioning text blocks with different word animations.
 - [codrops/OnScrollFilter](https://github.com/codrops/OnScrollFilter) - Combining GSAP's Scroll Trigger and Flip with a SVG Filter, based on a demo by Fabio Ottaviani.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [scottcorgan/tiny-emitter](https://github.com/scottcorgan/tiny-emitter) - A tiny (less than 1k) event emitter library
@@ -1062,7 +1076,6 @@
 - [Code-Pop/Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) - Code for Vue Mastery's Intro to Vue 3 course:
 - [AntoineW/luge](https://github.com/AntoineW/luge) - Luge
 - [Aqro/threejs-vanishing-suzanne](https://github.com/Aqro/threejs-vanishing-suzanne) - A vanishing effect for particles and magic lovers using Threejs, GSAP and custom shaders.
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [10up/actions-wordpress](https://github.com/10up/actions-wordpress) - GitHub Actions for WordPress!
 - [morrislaptop/tailwind-zeplin-extension](https://github.com/morrislaptop/tailwind-zeplin-extension) - Utilities to generate Tailwind Config and classes for your components.
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) - ❗️PROJECT UNMAINTAINED❗️ 🧈 Butter is a simple drag and hold slider. With 0 dependencies 🍦
@@ -1250,6 +1263,7 @@
 
 ## python 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [roose/Wox.Plugin.CanIUse](https://github.com/roose/Wox.Plugin.CanIUse) - Wox plugin for caniuse.com
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1285,6 +1299,7 @@
 - [JEverhart383/first-headless-project](https://github.com/JEverhart383/first-headless-project) - Created with CodeSandbox
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - 🔪 WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
@@ -1508,6 +1523,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [sonicoder86/vue-3-playground](https://github.com/sonicoder86/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [krestaino/nuepress](https://github.com/krestaino/nuepress) - 📖 Nuxt.js + WordPress REST API
@@ -1581,6 +1597,7 @@
 
 ## wordpress 
 
+- [NielsdeBlaauw/query-monitor-twig-profile](https://github.com/NielsdeBlaauw/query-monitor-twig-profile) - Displays Twig profiler output in Query Monitor
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - Create custom Gutenberg blocks from the HTML templates you already have.
 - [BeAPI/beapi-maintenance-mode](https://github.com/BeAPI/beapi-maintenance-mode) - Puts your WordPress site into maintenance mode.
@@ -1666,6 +1683,13 @@
 ## zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## zsh 
+
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 
 
 ## License
