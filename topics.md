@@ -937,6 +937,7 @@
 
 ## others 
 
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
 - [crstauf/query-monitor-extend](https://github.com/crstauf/query-monitor-extend) - WordPress plugin with customizations to enhance and extend the already awesome Query Monitor plugin.
 - [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass) - MCP Discovery & Recommendation Service - Find the right MCP server for your needs
