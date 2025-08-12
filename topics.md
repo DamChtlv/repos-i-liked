@@ -951,6 +951,7 @@
 
 ## others 
 
+- [ferdium/ferdium-status](https://github.com/ferdium/ferdium-status) - 📈 Uptime monitor and status page for Ferdium, powered by @upptime
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
