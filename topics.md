@@ -32,6 +32,7 @@
 - [code-quality](#code-quality)
 - [compiler](#compiler)
 - [continuous-integration](#continuous-integration)
+- [crawler](#crawler)
 - [cryptography](#cryptography)
 - [css](#css)
 - [dart](#dart)
@@ -329,6 +330,10 @@
 
 - [AndreasAugustin/actions-template-sync](https://github.com/AndreasAugustin/actions-template-sync) - :octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
+
+## crawler 
+
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ## cryptography 
 
