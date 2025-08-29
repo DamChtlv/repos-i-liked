@@ -771,7 +771,7 @@
 - [yuanqing/charming](https://github.com/yuanqing/charming) - :tophat: Lettering.js in vanilla JavaScript
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
-- [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
+- [dept/highway](https://github.com/dept/highway) - Highway - A Modern Javascript Transitions Manager
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
@@ -806,7 +806,7 @@
 - [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
 - [javierbyte/timelapses](https://github.com/javierbyte/timelapses) - 
 - [nickdeny/darkmode.js](https://github.com/nickdeny/darkmode.js) - 🌒 Lightweight and powerful library that add dark theme to website based on user's time & OS appearance
-- [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
+- [dept/highway](https://github.com/dept/highway) - Highway - A Modern Javascript Transitions Manager
 
 ## json 
 
@@ -837,7 +837,7 @@
 
 - [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
 - [wp-bond/bond](https://github.com/wp-bond/bond) - A utility library for WordPress developers.
-- [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
+- [dept/highway](https://github.com/dept/highway) - Highway - A Modern Javascript Transitions Manager
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 
 ## linux 
