@@ -984,6 +984,7 @@
 
 ## others 
 
+- [csswizardry/Obs.js](https://github.com/csswizardry/Obs.js) - Context-aware web performance for everyone
 - [ferdium/ferdium-status](https://github.com/ferdium/ferdium-status) - 📈 Uptime monitor and status page for Ferdium, powered by @upptime
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
