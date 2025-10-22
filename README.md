@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [Blade](#blade)
 - [C](#c)
@@ -40,6 +41,10 @@
 ## Astro 
 
 - [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio) - Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own.
+
+## Batchfile 
+
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Bikeshed 
 
@@ -505,7 +510,6 @@
 
 ## PowerShell 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [iandiv/StartAllBack-Cleanup](https://github.com/iandiv/StartAllBack-Cleanup) - This script will clean up the registry keys
 
 ## Python 
@@ -544,7 +548,7 @@
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 
