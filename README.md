@@ -150,7 +150,7 @@
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [csswizardry/Obs.js](https://github.com/csswizardry/Obs.js) - Context-aware web performance for everyone
-- [oxc-project/bench-javascript-linter](https://github.com/oxc-project/bench-javascript-linter) - oxc is 50 - 100 times faster than ESLint
+- [oxc-project/bench-linter](https://github.com/oxc-project/bench-linter) - Oxlint is 50 - 100 times faster than ESLint
 - [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass) - MCP Discovery & Recommendation Service - Find the right MCP server for your needs
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - Create custom Gutenberg blocks from the HTML templates you already have.
@@ -601,7 +601,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codeb
 - [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) - An MCP server for interacting with Sentry via LLMs.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
 - [Iterable/iterable-web-sdk](https://github.com/Iterable/iterable-web-sdk) - Iterable SDK for interacting with the Iterable API to implement inside JavaScript and Node projects
