@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -567,6 +568,7 @@
 
 ## Shell 
 
+- [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
 - [AndreasAugustin/actions-template-sync](https://github.com/AndreasAugustin/actions-template-sync) - :octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
