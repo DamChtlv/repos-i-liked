@@ -1058,7 +1058,7 @@
 - [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio) - Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own.
 - [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
 - [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
-- [sshtunnelvision/MCP-LOGO-GEN](https://github.com/sshtunnelvision/MCP-LOGO-GEN) - 
+- [arekhalpern/MCP-LOGO-GEN](https://github.com/arekhalpern/MCP-LOGO-GEN) - 
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [BeAPI/wp-dsfr](https://github.com/BeAPI/wp-dsfr) - WP DSFR est un portage en WordPress du Système de Design Français (ou DSFR) sous forme de thème WordPress
 - [inertiajs/inertia-laravel](https://github.com/inertiajs/inertia-laravel) - The Laravel adapter for Inertia.js.
