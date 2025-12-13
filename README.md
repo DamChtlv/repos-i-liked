@@ -471,7 +471,6 @@
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
 - [psaikali/msk-devtools](https://github.com/psaikali/msk-devtools) - WordPress must-use plugin adding useful functions to WP developers.
 - [WordPress/performance](https://github.com/WordPress/performance) - Performance plugin from the WordPress Performance Group, which is a collection of standalone performance modules.
-- [tomusborne/generatepress](https://github.com/tomusborne/generatepress) - 
 - [wp-media/wp-rocket-helpers](https://github.com/wp-media/wp-rocket-helpers) - 🚀 Helper plugins for specific use cases with WP Rocket. ☝️ TEST BEFORE USE! ☝️
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
