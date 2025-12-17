@@ -1038,6 +1038,7 @@
 
 ## others 
 
+- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
 - [WordPress/php-ai-client](https://github.com/WordPress/php-ai-client) - A provider agnostic PHP AI client SDK to communicate with any generative AI models of various capabilities using a uniform API.
 - [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
