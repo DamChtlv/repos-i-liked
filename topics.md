@@ -1059,6 +1059,7 @@
 
 ## others 
 
+- [PAPAMICA/home-config](https://github.com/PAPAMICA/home-config) - All configs files of my house configuration !
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
