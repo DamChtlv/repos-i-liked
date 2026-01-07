@@ -1059,6 +1059,7 @@
 
 ## others 
 
+- [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [PAPAMICA/home-config](https://github.com/PAPAMICA/home-config) - All configs files of my house configuration !
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
