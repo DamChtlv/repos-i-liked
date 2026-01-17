@@ -358,7 +358,7 @@
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [AdvancedCustomFields/schemas](https://github.com/AdvancedCustomFields/schemas) - Schemas for Advanced Custom Fields
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [zouloux/personal-doc](https://github.com/zouloux/personal-doc) - Documentation et bookmarks du dev web.
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
@@ -719,7 +719,7 @@
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
-- [idiotWu/smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
+- [dolphin-wood/smooth-scrollbar](https://github.com/dolphin-wood/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## Vue 
