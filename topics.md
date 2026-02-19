@@ -1074,6 +1074,7 @@
 
 ## others 
 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [lansespirit/image-gen-mcp](https://github.com/lansespirit/image-gen-mcp) - An MCP server that integrates with gpt-image-1 & Gemini imagen4 model for text-to-image generation services
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
@@ -1126,7 +1127,7 @@
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [treosh/lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [aspirepress/AspireCloud](https://github.com/aspirepress/AspireCloud) - AspireCloud is an API server for WordPress, partially implementing the api.wp.org specifications, and proxying the rest
-- [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - A lil plugin that bulk creates Troy's WAF rules for each domain in an account.
+- [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - Create optimized Cloudflare WAF rules across many sites in bulk
 - [skouerr/skouerr-theme](https://github.com/skouerr/skouerr-theme) - 
 - [skouerr/skouerr-cli](https://github.com/skouerr/skouerr-cli) - 
 - [webaxones/consistency](https://github.com/webaxones/consistency) - The purpose of this plugin is to provide a Typographical Corrector for Gutenberg
