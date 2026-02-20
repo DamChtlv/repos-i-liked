@@ -393,6 +393,7 @@
 
 ## css 
 
+- [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
 - [adamplesnik/tailwindcss-scroll-driven-animations](https://github.com/adamplesnik/tailwindcss-scroll-driven-animations) - Unofficial and experimental plugin for Tailwind CSS v3.4+ that provides utilities for scroll-driven animations.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -722,6 +723,7 @@
 
 ## html 
 
+- [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -1516,6 +1518,7 @@
 
 ## sass 
 
+- [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [them-es/starter-fse](https://github.com/them-es/starter-fse) - Full Site Editing "Blocks" WordPress Starter Theme.
 - [roots/bud](https://github.com/roots/bud) - Build tool that wraps webpack complexity behind an elegant, minimal API
 - [rootwork/GET](https://github.com/rootwork/GET) - GET: Gulp, ES6, TailwindCSS
