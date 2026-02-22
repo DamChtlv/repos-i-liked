@@ -535,6 +535,7 @@
 
 ## Python 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [lansespirit/image-gen-mcp](https://github.com/lansespirit/image-gen-mcp) - An MCP server that integrates with gpt-image-1 & Gemini imagen4 model for text-to-image generation services
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [PAPAMICA/home-config](https://github.com/PAPAMICA/home-config) - All configs files of my house configuration !
