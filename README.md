@@ -154,6 +154,7 @@
 
 ## JavaScript 
 
+- [web-platform-dx/baseline-browser-mapping](https://github.com/web-platform-dx/baseline-browser-mapping) - baseline-browser-mapping exposes arrays of browsers compatible with Baseline Widely Available and specified Baseline year feature sets.
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
