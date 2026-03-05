@@ -615,6 +615,7 @@
 
 ## TypeScript 
 
+- [postmanlabs/postman-mcp-server](https://github.com/postmanlabs/postman-mcp-server) - Connect your AI to your APIs on Postman
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
