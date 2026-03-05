@@ -199,6 +199,7 @@
 
 ## ai 
 
+- [postmanlabs/postman-mcp-server](https://github.com/postmanlabs/postman-mcp-server) - Connect your AI to your APIs on Postman
 - [WordPress/wp-ai-client](https://github.com/WordPress/wp-ai-client) - An AI client and API for WordPress to communicate with any generative AI models of various capabilities using a uniform API.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
@@ -966,6 +967,7 @@
 
 ## mcp 
 
+- [postmanlabs/postman-mcp-server](https://github.com/postmanlabs/postman-mcp-server) - Connect your AI to your APIs on Postman
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
