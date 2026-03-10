@@ -536,6 +536,7 @@
 
 ## Python 
 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [lansespirit/image-gen-mcp](https://github.com/lansespirit/image-gen-mcp) - An MCP server that integrates with gpt-image-1 & Gemini imagen4 model for text-to-image generation services
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
@@ -660,7 +661,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
+- [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [Applelo/vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - Add BrowserSync in your Vite project
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
@@ -675,7 +676,7 @@
 - [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
 - [vite-plugin/vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import
 - [10up/block-components](https://github.com/10up/block-components) - A collection of components built to be used in the block editor
-- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Free JavaScript form builder library with integration for React, Angular, Vue, jQuery, and Knockout.
+- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue 3), and
 - [cmalven/vite-plugin-sass-glob-import](https://github.com/cmalven/vite-plugin-sass-glob-import) - Use glob syntax for imports in your main Sass or SCSS file.
 - [milesaylward/wp-theme-vite-template](https://github.com/milesaylward/wp-theme-vite-template) - An example on using Vite to compile Typescript & SCSS to create a custom wordpress theme.
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A floating rigibody character controller
