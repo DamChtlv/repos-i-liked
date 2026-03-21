@@ -1246,7 +1246,7 @@
 - [snicco/better-wp-api](https://github.com/snicco/better-wp-api) - [READ ONLY] Subtree split of the snicco/better-wp-api package (see snicco/snicco).
 - [snicco/better-wp-hooks](https://github.com/snicco/better-wp-hooks) - [READ ONLY] Subtree split of the snicco/better-wp-hooks package (see snicco/snicco).
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2](https://github.com/Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2) - Watch the full course for this repo at the following link:
 - [Code-Pop/vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
