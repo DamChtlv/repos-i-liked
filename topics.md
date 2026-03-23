@@ -1117,7 +1117,6 @@
 - [ryanhellyer/stale-cache](https://github.com/ryanhellyer/stale-cache) - Stale Cache for WordPress
 - [AntoineW/AW-2025-Portfolio](https://github.com/AntoineW/AW-2025-Portfolio) - Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own.
 - [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
-- [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
 - [arekhalpern/MCP-LOGO-GEN](https://github.com/arekhalpern/MCP-LOGO-GEN) - 
 - [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 - [BeAPI/wp-dsfr](https://github.com/BeAPI/wp-dsfr) - WP DSFR est un portage en WordPress du Système de Design Français (ou DSFR) sous forme de thème WordPress
@@ -1846,6 +1845,7 @@
 - [NielsdeBlaauw/query-monitor-twig-profile](https://github.com/NielsdeBlaauw/query-monitor-twig-profile) - Displays Twig profiler output in Query Monitor
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [jverneaut/html-to-gutenberg](https://github.com/jverneaut/html-to-gutenberg) - Create custom Gutenberg blocks from the HTML templates you already have.
+- [roots/vite-plugin](https://github.com/roots/vite-plugin) - A Vite plugin for working with WordPress
 - [BeAPI/beapi-maintenance-mode](https://github.com/BeAPI/beapi-maintenance-mode) - Puts your WordPress site into maintenance mode.
 - [EstebanForge/UnrePress](https://github.com/EstebanForge/UnrePress) - An independent Core, Plugins and Themes updater for WordPress. No wp.org dependency.
 - [BeAPI/phpwpinfo](https://github.com/BeAPI/phpwpinfo) - Provides an equivalent to the `phpinfo()` but with more WordPress requirements details.
