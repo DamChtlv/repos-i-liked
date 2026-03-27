@@ -256,6 +256,7 @@
 
 ## artificial-intelligence 
 
+- [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp) - Claudeus WordPress MCP Server
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 
@@ -1073,6 +1074,7 @@
 
 ## openai 
 
+- [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp) - Claudeus WordPress MCP Server
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1084,6 +1086,7 @@
 
 ## others 
 
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [bacoords/example-php-block](https://github.com/bacoords/example-php-block) - Register WordPress PHP-only blocks (includes Agent Skills)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
@@ -1839,6 +1842,7 @@
 
 ## wordpress 
 
+- [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp) - Claudeus WordPress MCP Server
 - [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker) - A custom update checker for WordPress plugins. Useful if you don't want to host your project in the official WP repository, but would still like it to support automatic updates. Despite the name, it a
 - [WordPress/wp-ai-client](https://github.com/WordPress/wp-ai-client) - An AI client and API for WordPress to communicate with any generative AI models of various capabilities using a uniform API.
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
