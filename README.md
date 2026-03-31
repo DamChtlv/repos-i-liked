@@ -395,7 +395,7 @@
 - [WordPress/wp-ai-client](https://github.com/WordPress/wp-ai-client) - An AI client and API for WordPress to communicate with any generative AI models of various capabilities using a uniform API.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress and WooCommerce
 - [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.
 - [WordPress/php-ai-client](https://github.com/WordPress/php-ai-client) - A provider agnostic PHP AI client SDK to communicate with any generative AI models of various capabilities using a uniform API.
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
