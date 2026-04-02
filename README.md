@@ -363,6 +363,7 @@
 
 ## Others 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [mmrakt/update-chrome-extension-version-action](https://github.com/mmrakt/update-chrome-extension-version-action) - Github Actions to automates the process of updating chrome extension apps.
 - [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
 - [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - Create optimized Cloudflare WAF rules across many sites in bulk
@@ -572,6 +573,7 @@
 
 ## Rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
