@@ -621,7 +621,7 @@
 
 ## TypeScript 
 
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp) - Claudeus WordPress MCP Server
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Better Fullstack is the fork of Better-t-stack offering more Typescript libraries, support of Rust, Go and Python and much more in the Future!
