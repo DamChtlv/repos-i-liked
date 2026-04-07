@@ -29,6 +29,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -336,6 +337,12 @@
 
 - [mmrakt/update-chrome-extension-version-action](https://github.com/mmrakt/update-chrome-extension-version-action) - Github Actions to automates the process of updating chrome extension apps.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
+
+## claude-code 
+
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ## cli 
 
@@ -1095,7 +1102,6 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [bacoords/example-php-block](https://github.com/bacoords/example-php-block) - Register WordPress PHP-only blocks (includes Agent Skills)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office.
 - [web-platform-dx/baseline-browser-mapping](https://github.com/web-platform-dx/baseline-browser-mapping) - baseline-browser-mapping exposes arrays of browsers compatible with Baseline Widely Available and specified Baseline year feature sets.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
