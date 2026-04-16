@@ -674,7 +674,7 @@
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [Applelo/vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - Add BrowserSync in your Vite project
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [RyanClementsHax/tailwindcss-themer](https://github.com/RyanClementsHax/tailwindcss-themer) - An unopinionated, scalable, tailwindcss theming solution
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
