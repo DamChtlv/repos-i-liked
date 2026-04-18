@@ -621,6 +621,7 @@
 
 ## TypeScript 
 
+- [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp) - Claudeus WordPress MCP Server
