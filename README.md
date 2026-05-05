@@ -22,6 +22,7 @@
 - [JSON](#json)
 - [JavaScript](#javascript)
 - [MDX](#mdx)
+- [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
 - [PHP](#php)
@@ -152,7 +153,6 @@
 ## JSON 
 
 - [ferdium/ferdium-status](https://github.com/ferdium/ferdium-status) - 📈 Uptime monitor and status page for Ferdium, powered by @upptime
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## JavaScript 
 
@@ -357,6 +357,10 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -402,7 +406,7 @@
 - [WordPress/php-ai-client](https://github.com/WordPress/php-ai-client) - A provider agnostic PHP AI client SDK to communicate with any generative AI models of various capabilities using a uniform API.
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 - [thephpleague/glide](https://github.com/thephpleague/glide) - Wonderfully easy on-demand image manipulation library with an HTTP based API.
-- [spatie/image](https://github.com/spatie/image) - Manipulate images with an expressive API
+- [spatie/image](https://github.com/spatie/image) - https://spatie.be/docs/image/v3/introduction
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [crstauf/query-monitor-extend](https://github.com/crstauf/query-monitor-extend) - WordPress plugin with customizations to enhance and extend the already awesome Query Monitor plugin.
 - [NielsdeBlaauw/query-monitor-twig-profile](https://github.com/NielsdeBlaauw/query-monitor-twig-profile) - Displays Twig profiler output in Query Monitor
