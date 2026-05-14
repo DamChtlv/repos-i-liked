@@ -710,7 +710,7 @@
 - [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [roots/bud](https://github.com/roots/bud) - Build tool that wraps webpack complexity behind an elegant, minimal API
@@ -770,7 +770,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [funkhaus/fuxt](https://github.com/funkhaus/fuxt) - A complete Headless WordPress tech stack built on Nuxt.
 - [Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2](https://github.com/Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2) - Watch the full course for this repo at the following link:
 - [Code-Pop/Real-World_Vue-3](https://github.com/Code-Pop/Real-World_Vue-3) - Example app for Vue Mastery's Real World Vue 3 course
