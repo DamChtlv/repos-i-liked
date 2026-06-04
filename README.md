@@ -108,7 +108,7 @@
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -254,7 +254,7 @@
 - [StrandedKitty/three-csm](https://github.com/StrandedKitty/three-csm) - ☀️ Cascaded shadow maps (CSMs) implementation for Three.js
 - [ayamflow/virtual-scroll](https://github.com/ayamflow/virtual-scroll) - A low-level library to create custom scroll behaviors.
 - [quentinhocde/loconative-scroll](https://github.com/quentinhocde/loconative-scroll) - The great locomotive-scroll but 100% Native, updated with Lenis to get a native but smooth scrolling experience.
-- [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A web development environment for creative coding
+- [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A modern toolkit for creative coding
 - [Code-Pop/vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
 - [AntoineW/luge](https://github.com/AntoineW/luge) - Luge
 - [Aqro/threejs-vanishing-suzanne](https://github.com/Aqro/threejs-vanishing-suzanne) - A vanishing effect for particles and magic lovers using Threejs, GSAP and custom shaders.
@@ -744,7 +744,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) - ❗️PROJECT UNMAINTAINED❗️ 🧈 Butter is a simple drag and hold slider. With 0 dependencies 🍦
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
