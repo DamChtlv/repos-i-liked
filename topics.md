@@ -1598,6 +1598,7 @@
 
 ## rust 
 
+- [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -1637,6 +1638,7 @@
 
 ## self-hosted 
 
+- [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
