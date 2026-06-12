@@ -59,6 +59,7 @@
 
 - [juanmirocks/Levenshtein-MySQL-UDF](https://github.com/juanmirocks/Levenshtein-MySQL-UDF) - General Levenshtein algorithm and k-bounded Levenshtein distance in linear time and constant space. Implementation in C as UDFs for MySQL🐬 and MariaDB🦭
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [snielsen/DeathToDSStore](https://github.com/snielsen/DeathToDSStore) - .DS_Store is an abomination and must be stopped.
@@ -69,7 +70,6 @@
 - [jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap) - Your new favorite, free, and open source screenshot tool
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [RolandPheasant/TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData)
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
@@ -583,6 +583,7 @@
 
 ## Rust 
 
+- [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
