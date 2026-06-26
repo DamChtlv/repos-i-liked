@@ -438,7 +438,7 @@
 ## css 
 
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
-- [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
+- [master-co/css](https://github.com/master-co/css) - The markup-driven CSS language and framework — readable by humans, reliable for agents.
 - [adamplesnik/tailwindcss-scroll-driven-animations](https://github.com/adamplesnik/tailwindcss-scroll-driven-animations) - Unofficial and experimental plugin for Tailwind CSS v3.4+ that provides utilities for scroll-driven animations.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
@@ -627,7 +627,7 @@
 
 ## framework 
 
-- [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
+- [master-co/css](https://github.com/master-co/css) - The markup-driven CSS language and framework — readable by humans, reliable for agents.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
@@ -779,7 +779,7 @@
 ## html 
 
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
-- [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
+- [master-co/css](https://github.com/master-co/css) - The markup-driven CSS language and framework — readable by humans, reliable for agents.
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
@@ -948,7 +948,7 @@
 ## language 
 
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-- [master-co/css](https://github.com/master-co/css) - The CSS Language and Framework
+- [master-co/css](https://github.com/master-co/css) - The markup-driven CSS language and framework — readable by humans, reliable for agents.
 
 ## laravel 
 
