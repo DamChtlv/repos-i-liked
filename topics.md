@@ -1178,7 +1178,7 @@
 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [techjarves/Odysseus-Portable](https://github.com/techjarves/Odysseus-Portable) - A unified, 100% self-contained, open-source, and offline-first local AI agent workspace.
 - [texel-org/windfoil](https://github.com/texel-org/windfoil) - an algorithm for computing winding & anti-aliasing of 2D vector shapes
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
