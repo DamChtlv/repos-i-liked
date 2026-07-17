@@ -1176,6 +1176,7 @@
 
 ## others 
 
+- [Sidsector9/local-wordpress-supercharged](https://github.com/Sidsector9/local-wordpress-supercharged) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
@@ -1696,6 +1697,7 @@
 
 ## self-hosted 
 
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
