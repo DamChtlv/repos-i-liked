@@ -1148,6 +1148,7 @@
 
 ## nodejs 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
@@ -1200,6 +1201,7 @@
 
 ## others 
 
+- [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) - Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [Sidsector9/local-wordpress-supercharged](https://github.com/Sidsector9/local-wordpress-supercharged) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -1495,6 +1497,7 @@
 
 ## package-manager 
 
+- [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 
