@@ -1936,7 +1936,6 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
-- [sonicoder86/vue-3-playground](https://github.com/sonicoder86/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [krestaino/nuepress](https://github.com/krestaino/nuepress) - 📖 Nuxt.js + WordPress REST API
 - [srhise/nuxt-wordpress-pwa](https://github.com/srhise/nuxt-wordpress-pwa) - Wordpress + Vue + Nuxt.js
@@ -1952,7 +1951,6 @@
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
-- [sonicoder86/vue-3-playground](https://github.com/sonicoder86/vue-3-playground) - Vue 3 Playground packed with all the new features
 - [bshiluk/vue-wordpress](https://github.com/bshiluk/vue-wordpress) - Use Vue.js and the WP REST API to build WordPress themes as SPAs with dynamic routing, HMR for development, SEO enabled, and SSR capable. Demo:
 - [netlify-labs/headless-wp-nuxt](https://github.com/netlify-labs/headless-wp-nuxt) - 🏔 Headless WordPress JAMstack Template
 
