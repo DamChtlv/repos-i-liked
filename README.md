@@ -652,6 +652,7 @@
 
 ## TypeScript 
 
+- [mikhailmogilnikov/hyperellipse](https://github.com/mikhailmogilnikov/hyperellipse) - CSS corner-shape polyfill — squircles, superellipses, scoops & notches
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) - Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
