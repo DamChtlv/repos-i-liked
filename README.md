@@ -595,6 +595,7 @@
 
 ## Rust 
 
+- [realfakenerd/OpenSkyrim](https://github.com/realfakenerd/OpenSkyrim) - Skyrim made with Bevy
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
@@ -634,7 +635,7 @@
 - [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
 - [AndreasAugustin/actions-template-sync](https://github.com/AndreasAugustin/actions-template-sync) - :octocat: Github action for syncing other repositories (templates) with current repository. Any git provider like GitHub (enterprise), GitLab, Gittea,.. are supported for the source repository
 - [orhun/git-cliff-action](https://github.com/orhun/git-cliff-action) - GitHub action to generate a changelog based on the Git history
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [tj/n](https://github.com/tj/n) - Node version management
 - [rtCamp/action-phpcs-code-review](https://github.com/rtCamp/action-phpcs-code-review) - Github Action to perform automated code review on pull requests
 - [kevinpainchaud/simple-ftp-deploy-action](https://github.com/kevinpainchaud/simple-ftp-deploy-action) - Deploy files to an FTP server using GitHub actions
