@@ -19,6 +19,7 @@
 - [Go Template](#go-template)
 - [HTML](#html)
 - [Hack](#hack)
+- [Inno Setup](#inno-setup)
 - [JSON](#json)
 - [JavaScript](#javascript)
 - [MDX](#mdx)
@@ -117,7 +118,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -154,6 +154,10 @@
 ## Hack 
 
 - [BeAPI/beapi-maintenance-mode](https://github.com/BeAPI/beapi-maintenance-mode) - Puts your WordPress site into maintenance mode.
+
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## JSON 
 
