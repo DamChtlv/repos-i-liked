@@ -7,7 +7,6 @@
 
 - [Astro](#astro)
 - [Batchfile](#batchfile)
-- [Bikeshed](#bikeshed)
 - [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
@@ -47,10 +46,6 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-## Bikeshed 
-
-- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 
 ## Blade 
 
@@ -398,6 +393,7 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [mdn/mdn](https://github.com/mdn/mdn) - Planning and proposals for MDN Web Docs content
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
+- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
@@ -560,6 +556,7 @@
 
 ## Python 
 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
