@@ -378,7 +378,7 @@
 
 ## Others 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [mmrakt/update-chrome-extension-version-action](https://github.com/mmrakt/update-chrome-extension-version-action) - Github Actions to automates the process of updating chrome extension apps.
 - [d9beuD/o2switch-whitelisting](https://github.com/d9beuD/o2switch-whitelisting) - Add the runner IP in your o2switch whitelist for later remote access.
 - [presswizards/cloudflare-waf-rules-wizard](https://github.com/presswizards/cloudflare-waf-rules-wizard) - Create optimized Cloudflare WAF rules across many sites in bulk
@@ -406,6 +406,7 @@
 
 ## PHP 
 
+- [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
 - [AlextheYounga/movepress](https://github.com/AlextheYounga/movepress) - A modern WordPress deployment tool for pushing and pulling databases and files between environments via SSH.
 - [altcha-org/altcha-lib-php](https://github.com/altcha-org/altcha-lib-php) - A lightweight PHP library for creating and verifying ALTCHA challenges.
 - [Automattic/claude-code-wordpress.com](https://github.com/Automattic/claude-code-wordpress.com) - A Claude Code plugin that helps to build and edit WordPress.com sites
@@ -556,6 +557,7 @@
 
 ## Python 
 
+- [blagoySimandov/asd-ste100-writer-skill](https://github.com/blagoySimandov/asd-ste100-writer-skill) - 
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -599,7 +601,7 @@
 - [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that can run locally or self-hosted in microvms, with debug-on-failure
 - [realfakenerd/OpenSkyrim](https://github.com/realfakenerd/OpenSkyrim) - Skyrim made with Bevy
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
 - [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -662,6 +664,7 @@
 - [Sidsector9/local-wordpress-supercharged](https://github.com/Sidsector9/local-wordpress-supercharged) - A Local by Flywheel addon that supercharges your local WordPress development workflow.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [gkurt/tegaki](https://github.com/gkurt/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
