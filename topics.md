@@ -1228,10 +1228,12 @@
 
 ## others 
 
+- [blagoySimandov/asd-ste100-writer-skill](https://github.com/blagoySimandov/asd-ste100-writer-skill) - 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that can run locally or self-hosted in microvms, with debug-on-failure
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) - Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [Sidsector9/local-wordpress-supercharged](https://github.com/Sidsector9/local-wordpress-supercharged) - A Local by Flywheel addon that supercharges your local WordPress development workflow.
@@ -1536,6 +1538,7 @@
 
 ## php 
 
+- [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
 - [altcha-org/altcha-lib-php](https://github.com/altcha-org/altcha-lib-php) - A lightweight PHP library for creating and verifying ALTCHA challenges.
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -2060,6 +2063,7 @@
 
 ## wordpress 
 
+- [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
 - [AlextheYounga/movepress](https://github.com/AlextheYounga/movepress) - A modern WordPress deployment tool for pushing and pulling databases and files between environments via SSH.
 - [deus-h/claudeus-wp-mcp](https://github.com/deus-h/claudeus-wp-mcp) - Claudeus WordPress MCP Server
