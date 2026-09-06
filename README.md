@@ -168,7 +168,6 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [oslllo/svg-fixer](https://github.com/oslllo/svg-fixer) - Converts SVG Strokes To Fill.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -562,6 +561,7 @@
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
