@@ -635,6 +635,7 @@
 
 ## Shell 
 
+- [WP-Umbrella/umbrella-skill](https://github.com/WP-Umbrella/umbrella-skill) - WP Umbrella plugin for LLM
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [Cobenian/shai-hulud-detect](https://github.com/Cobenian/shai-hulud-detect) - A simple project to detect the Shai-Hulud npm supply chain attack
