@@ -2066,6 +2066,7 @@
 
 ## wordpress 
 
+- [WP-Umbrella/umbrella-skill](https://github.com/WP-Umbrella/umbrella-skill) - WP Umbrella plugin for LLM
 - [rhubarbgroup/redis-cache](https://github.com/rhubarbgroup/redis-cache) - A persistent object cache backend for WordPress powered by Redis. Supports Predis, PhpRedis, Relay, replication, sentinels, clustering and WP-CLI.
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
 - [AlextheYounga/movepress](https://github.com/AlextheYounga/movepress) - A modern WordPress deployment tool for pushing and pulling databases and files between environments via SSH.
