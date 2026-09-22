@@ -716,7 +716,7 @@
 
 ## game-development 
 
-- [realfakenerd/OpenSkyrim](https://github.com/realfakenerd/OpenSkyrim) - Skyrim made with Bevy
+- [realfakenerd/wah-krah-jol](https://github.com/realfakenerd/wah-krah-jol) - Skyrim made with Bevy
 
 ## gaming 
 
@@ -1246,7 +1246,7 @@
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [techjarves/Odysseus-Portable](https://github.com/techjarves/Odysseus-Portable) - A unified, 100% self-contained, open-source, and offline-first local AI agent workspace.
-- [texel-org/windfoil](https://github.com/texel-org/windfoil) - an algorithm for computing winding & anti-aliasing of 2D vector shapes
+- [texel-org/windfoil-algorithm](https://github.com/texel-org/windfoil-algorithm) - an algorithm for computing winding & anti-aliasing of 2D vector shapes
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Automattic/claude-code-wordpress.com](https://github.com/Automattic/claude-code-wordpress.com) - A Claude Code plugin that helps to build and edit WordPress.com sites
@@ -1737,7 +1737,7 @@
 
 ## rust 
 
-- [realfakenerd/OpenSkyrim](https://github.com/realfakenerd/OpenSkyrim) - Skyrim made with Bevy
+- [realfakenerd/wah-krah-jol](https://github.com/realfakenerd/wah-krah-jol) - Skyrim made with Bevy
 - [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
