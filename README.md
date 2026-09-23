@@ -594,6 +594,7 @@
 
 ## Ruby 
 
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
@@ -604,7 +605,7 @@
 
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) - A modern mod manager for Thunderstore
 - [preloopdev/preloop](https://github.com/preloopdev/preloop) - agent-native, drop-in Github Actions that can run locally or self-hosted in microvms, with debug-on-failure
-- [realfakenerd/wah-krah-jol](https://github.com/realfakenerd/wah-krah-jol) - Skyrim made with Bevy
+- [realfakenerd/wah-krah-jol](https://github.com/realfakenerd/wah-krah-jol) - Open-source engine for Skyrim, built with Bevy in Rust
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [nubjs/nub](https://github.com/nubjs/nub) - The fast all-in-one Node.js toolkit
