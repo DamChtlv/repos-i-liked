@@ -1241,6 +1241,7 @@
 
 ## others 
 
+- [Automattic/blocks-engine](https://github.com/Automattic/blocks-engine) - A collection of tools for generating, transforming, and materializing WordPress blocks.
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) - A modern mod manager for Thunderstore
 - [blagoySimandov/asd-ste100-writer-skill](https://github.com/blagoySimandov/asd-ste100-writer-skill) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
