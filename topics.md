@@ -427,6 +427,7 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [getsentry/toolkit](https://github.com/getsentry/toolkit) - Agentic tooling for Sentry
 - [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1244,6 +1245,7 @@
 
 ## others 
 
+- [ninjahawk/livenerf](https://github.com/ninjahawk/livenerf) - Benchmark for tracking model capability after release.
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [Automattic/blocks-engine](https://github.com/Automattic/blocks-engine) - A collection of tools for generating, transforming, and materializing WordPress blocks.
 - [Kesomannen/gale](https://github.com/Kesomannen/gale) - A modern mod manager for Thunderstore
@@ -1290,7 +1292,6 @@
 - [oxc-project/bench-linter](https://github.com/oxc-project/bench-linter) - Oxlint is 50 - 100 times faster than ESLint
 - [crstauf/query-monitor-extend](https://github.com/crstauf/query-monitor-extend) - WordPress plugin with customizations to enhance and extend the already awesome Query Monitor plugin.
 - [liuyoshio/mcp-compass](https://github.com/liuyoshio/mcp-compass) - MCP Discovery & Recommendation Service - Find the right MCP server for your needs
-- [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) - An MCP server for interacting with Sentry via LLMs.
 - [php-mcp/server](https://github.com/php-mcp/server) - Core PHP implementation for the Model Context Protocol (MCP) server
 - [Automattic/remote-data-blocks](https://github.com/Automattic/remote-data-blocks) - Remote Data Blocks: a WordPress plugin for creating flexible, data-enriched content with remote data integration
 - [ryanhellyer/stale-cache](https://github.com/ryanhellyer/stale-cache) - Stale Cache for WordPress
