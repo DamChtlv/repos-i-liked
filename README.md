@@ -209,7 +209,6 @@
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [easingthemes/ssh-deploy](https://github.com/easingthemes/ssh-deploy) - GitHub Action for deploying code via rsync over ssh. (with NodeJS)
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
-- [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [LearnWebCode/brads-boilerplate-wordpress](https://github.com/LearnWebCode/brads-boilerplate-wordpress) - An example starter theme and block-type plugin that use @wordpress/scripts for JS & CSS
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [coderesolution/inview-detection](https://github.com/coderesolution/inview-detection) - Enables the creation of sequential animations based on in-view detection using custom data-inview-* attributes in the DOM. Powered by GSAP.
@@ -255,7 +254,6 @@
 - [codrops/MagneticButtons](https://github.com/codrops/MagneticButtons) - A set of buttons with a magnetic interaction and a hover effect.
 - [sarathsaleem/grained](https://github.com/sarathsaleem/grained) - Generate animated noise texture with grained.js
 - [shshaw/Splitting](https://github.com/shshaw/Splitting) - JavaScript microlibrary to split an element by words, characters, children and more, populated with CSS variables!
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [brunosimon/keppler](https://github.com/brunosimon/keppler) - Real time code sharing for your lectures and presentations.
 - [spite/FaceMeshFaceGeometry](https://github.com/spite/FaceMeshFaceGeometry) - FaceMeshFaceGeometry for FaceMesh
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) - React Three Fiber, Threejs, Nextjs starter
@@ -457,6 +455,7 @@
 - [10up/convert-to-blocks](https://github.com/10up/convert-to-blocks) - Convert to Blocks is a WordPress plugin that transforms classic editor content to blocks on the fly.
 - [DamChtlv/Plugin-Tags](https://github.com/DamChtlv/Plugin-Tags) - "Plugin tags" WordPress plugin
 - [Rarst/laps](https://github.com/Rarst/laps) - Light WordPress profiler.
+- [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
 - [adminerevo/adminerevo](https://github.com/adminerevo/adminerevo) - Database management in a single PHP file
 - [BeAPI/wp-http-blocklist](https://github.com/BeAPI/wp-http-blocklist) - Block unwanted HTTP requests with a blocklist
 - [bacoords/block-theme](https://github.com/bacoords/block-theme) - A starter block theme for modern WordPress developers.
@@ -776,6 +775,7 @@
 - [areeburrub/tailwindcss-flow-launcher-plugin](https://github.com/areeburrub/tailwindcss-flow-launcher-plugin) - A Flow Launcher plugin that let you search tailwindcss classes and open their docs in your browser — just type tw and simply search
 - [pmndrs/react-three-offscreen](https://github.com/pmndrs/react-three-offscreen) - 📺 Offscreen worker canvas for react-three-fiber
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [pmndrs/react-three-rapier](https://github.com/pmndrs/react-three-rapier) - 🤺 Rapier physics in React
 - [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) - A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
