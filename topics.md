@@ -865,7 +865,7 @@
 - [svg-sprite/svg-sprite](https://github.com/svg-sprite/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g.
 - [master-co/css](https://github.com/master-co/css) - A markup-driven CSS orchestration language for developers and AI agents.
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
 - [vidstack/player](https://github.com/vidstack/player) - Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.
@@ -884,7 +884,7 @@
 ## html5 
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [Alicunde/HTML](https://github.com/Alicunde/HTML) - Set of simplified and stylized HTML elements
 - [martinlaxenaire/curtainsjs](https://github.com/martinlaxenaire/curtainsjs) - curtains.js is a lightweight vanilla WebGL javascript library that turns HTML DOM elements into interactive textured planes.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -959,7 +959,7 @@
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [sarathsaleem/grained](https://github.com/sarathsaleem/grained) - Generate animated noise texture with grained.js
 - [gabrielcarloto/flow-launcher-helper](https://github.com/gabrielcarloto/flow-launcher-helper) - A simple lib to help build plugins for Flow Launcher
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -1723,6 +1723,7 @@
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) - React Three Fiber, Threejs, Nextjs starter
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -1864,6 +1865,7 @@
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [Splidejs/splide](https://github.com/Splidejs/splide) - Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vidstack/player](https://github.com/vidstack/player) - Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.
 
@@ -1982,7 +1984,7 @@
 ## video 
 
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [vidstack/player](https://github.com/vidstack/player) - Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.
 
 ## virtual-reality 
@@ -2015,6 +2017,7 @@
 - [roots/bud](https://github.com/roots/bud) - Build tool that wraps webpack complexity behind an elegant, minimal API
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [vidstack/player](https://github.com/vidstack/player) - Deprecated in favour of Video.js 10; security fixes only until January 2028. UI components and hooks for building video and audio players on the web.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll as it should be
