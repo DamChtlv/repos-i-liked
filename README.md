@@ -332,7 +332,6 @@
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [pixelcollective/gardener](https://github.com/pixelcollective/gardener) - Lazy configuration of Roots stack (Trellis/Bedrock/Sage/Soil) based on command-line prompts.
-- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [robjtede/alfred-caniuse](https://github.com/robjtede/alfred-caniuse) - Quickly reference caniuse.com support tables using Alfred 3.
 - [locomotivemtl/locomotive-boilerplate](https://github.com/locomotivemtl/locomotive-boilerplate) - 🚂 Front-end boilerplate for projects by Locomotive.
 - [MoOx/pjax](https://github.com/MoOx/pjax) - Easily enable fast Ajax navigation on any website (using pushState +  xhr)
@@ -808,6 +807,7 @@
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [vaneenige/uos](https://github.com/vaneenige/uos) - 🐭 A tiny 250b scroll listener with progress.
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
