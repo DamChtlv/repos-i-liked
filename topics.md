@@ -733,7 +733,7 @@
 
 ## game-development 
 
-- [Mudcrab-Team/mudcrab](https://github.com/Mudcrab-Team/mudcrab) - Open-source engine for Skyrim, built with Bevy in Rust
+- [Mudcrab-Team/mudcrab](https://github.com/Mudcrab-Team/mudcrab) - Open-source rewrite of Skyrim, built with Bevy in Rust
 
 ## gaming 
 
@@ -1772,7 +1772,7 @@
 
 ## rust 
 
-- [Mudcrab-Team/mudcrab](https://github.com/Mudcrab-Team/mudcrab) - Open-source engine for Skyrim, built with Bevy in Rust
+- [Mudcrab-Team/mudcrab](https://github.com/Mudcrab-Team/mudcrab) - Open-source rewrite of Skyrim, built with Bevy in Rust
 - [scampion/quick](https://github.com/scampion/quick) - Drop files, get a live website in seconds — single-binary static hosting with per-subdomain sites, native JSX/Claude-artifact rendering, and S3 storage. Rust/Pingora.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations,
