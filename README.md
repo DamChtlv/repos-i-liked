@@ -20,7 +20,6 @@
 - [HTML](#html)
 - [Hack](#hack)
 - [Inno Setup](#inno-setup)
-- [JSON](#json)
 - [JavaScript](#javascript)
 - [MDX](#mdx)
 - [Markdown](#markdown)
@@ -159,10 +158,6 @@
 ## Inno Setup 
 
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
-
-## JSON 
-
-- [ferdium/ferdium-status](https://github.com/ferdium/ferdium-status) - 📈 Uptime monitor and status page for Ferdium, powered by @upptime
 
 ## JavaScript 
 
@@ -370,6 +365,7 @@
 
 ## Markdown 
 
+- [ferdium/ferdium-status](https://github.com/ferdium/ferdium-status) - 📈 Uptime monitor and status page for Ferdium, powered by @upptime
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nunjucks 
