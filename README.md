@@ -21,6 +21,7 @@
 - [Hack](#hack)
 - [Inno Setup](#inno-setup)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
@@ -67,7 +68,6 @@
 
 ## C# # 
 
-- [jasperdevs/odd-snap](https://github.com/jasperdevs/odd-snap) - Your new favorite, free, and open source screenshot tool
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
@@ -98,7 +98,6 @@
 
 ## Dart 
 
-- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
 ## Go 
@@ -356,6 +355,10 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+## Kotlin 
+
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
 ## MDX 
 
