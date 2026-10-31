@@ -16,6 +16,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -300,6 +301,30 @@
 
 - [imandresi/ovh-mail-manager](https://github.com/imandresi/ovh-mail-manager) - Application allowing old MX Plan OVH users to change their RoundCube email passwords outside the OVHcloud manager account.
 - [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surveys, quizzes, and other data-entry tools.
+
+## animation 
+
+- [gkurt/tegaki](https://github.com/gkurt/tegaki) - Handwriting animation for the web. Supports any font or text.
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
+- [willybrauner/interpol](https://github.com/willybrauner/interpol) - Interpolates values with a GSAP-like API ~ 3kB
+- [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
+- [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [craftedbygc/taxi](https://github.com/craftedbygc/taxi) - Taxi is a 🤏 small and 🐊 snappy js library for adding slick PJAX navigation and beautiful transitions to your website.
+- [sarathsaleem/grained](https://github.com/sarathsaleem/grained) - Generate animated noise texture with grained.js
+- [shshaw/Splitting](https://github.com/shshaw/Splitting) - JavaScript microlibrary to split an element by words, characters, children and more, populated with CSS variables!
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+- [codrops/TypographyMotion](https://github.com/codrops/TypographyMotion) - Recreation of Thibaud Allie's letter stagger animation.
+- [camwiegert/typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
+- [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
+- [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
+- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+- [bendc/animateplus](https://github.com/bendc/animateplus) - A+ animation module for the modern web
 
 ## ansible 
 
@@ -1265,6 +1290,7 @@
 
 ## others 
 
+- [DavidFuchs/mcp-uptime-kuma](https://github.com/DavidFuchs/mcp-uptime-kuma) - A Model Context Protocol (MCP) server for Uptime Kuma version 2.
 - [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack.
 - [schlessera/webmcp-hackathon](https://github.com/schlessera/webmcp-hackathon) - 
 - [ninjahawk/livenerf](https://github.com/ninjahawk/livenerf) - Benchmark for tracking model capability after release.
@@ -1352,7 +1378,6 @@
 - [ndiego/like-button](https://github.com/ndiego/like-button) - A basic Like button block for WordPress
 - [Grafikart/olympics-medals](https://github.com/Grafikart/olympics-medals) - 
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [Applelo/vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - Add BrowserSync in your Vite project
 - [iamntz/wp-vite-manifest](https://github.com/iamntz/wp-vite-manifest) - 
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
@@ -1448,7 +1473,6 @@
 - [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco).
 - [snicco/better-wp-api](https://github.com/snicco/better-wp-api) - [READ ONLY] Subtree split of the snicco/better-wp-api package (see snicco/snicco).
 - [snicco/better-wp-hooks](https://github.com/snicco/better-wp-hooks) - [READ ONLY] Subtree split of the snicco/better-wp-hooks package (see snicco/snicco).
-- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
 - [Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2](https://github.com/Code-Pop/build-a-blog-with-nuxt-3-and-nuxt-content-v2) - Watch the full course for this repo at the following link:
@@ -1465,7 +1489,6 @@
 - [armandsalle/butter-slider](https://github.com/armandsalle/butter-slider) - ❗️PROJECT UNMAINTAINED❗️ 🧈 Butter is a simple drag and hold slider. With 0 dependencies 🍦
 - [zouloux/personal-doc](https://github.com/zouloux/personal-doc) - Documentation et bookmarks du dev web.
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
-- [codrops/TypographyMotion](https://github.com/codrops/TypographyMotion) - Recreation of Thibaud Allie's letter stagger animation.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [superguigui/threejs-starter-kit](https://github.com/superguigui/threejs-starter-kit) - Three.js starter kit for quick prototypes
