@@ -221,7 +221,7 @@
 - [10up/wp-local-docker-v2](https://github.com/10up/wp-local-docker-v2) - ARCHIVED: A simple Docker based development environment for WordPress.
 - [wpperformance/press-wind](https://github.com/wpperformance/press-wind) - Starter theme WordPress with Tailwind CSS and Vite JS
 - [brandonkramer/wp-vite-starter](https://github.com/brandonkramer/wp-vite-starter) - Lightweight starter kit to use ViteJS 4 for WordPress plugin and theme development.  Includes frontend and backend (PHP) utilities
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against files staged in Git
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [colorful-tones/acf-slider-block](https://github.com/colorful-tones/acf-slider-block) - A slider carousel block with ACF Blocks and SwiperJS
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
