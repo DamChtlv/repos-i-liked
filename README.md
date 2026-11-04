@@ -46,7 +46,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Bikeshed 
 
@@ -528,6 +527,7 @@
 - [snicco/snicco](https://github.com/snicco/snicco) - Taking the pain out of enterprise WordPress development
 - [simplistik/acf-ajax-form-submit](https://github.com/simplistik/acf-ajax-form-submit) - Submit a WordPress ACF front end form via AJAX, instead of it's standard POST/page refresh method.
 - [BeAPI/bea-plugin-defaults](https://github.com/BeAPI/bea-plugin-defaults) - Library of WordPress mu-plugins to set plugin's default options.
+- [BeAPI/beapi-frontend-framework](https://github.com/BeAPI/beapi-frontend-framework) - WordPress friendly Front-End framework.
 - [Pierre-Lannoy/wp-plugin-boilerplate](https://github.com/Pierre-Lannoy/wp-plugin-boilerplate) - My personal plugin boilerplate for WordPress.
 - [hwkdev/TailwindAPI-PHP-SDK](https://github.com/hwkdev/TailwindAPI-PHP-SDK) - TailwindAPI.com - PHP SDK
 - [acf-extended/WP-Tinkerwell](https://github.com/acf-extended/WP-Tinkerwell) - 
@@ -555,6 +555,7 @@
 
 ## PowerShell 
 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [iandiv/StartAllBack-Cleanup](https://github.com/iandiv/StartAllBack-Cleanup) - This script will clean up the registry keys
 
 ## Python 
@@ -632,7 +633,6 @@
 ## SCSS 
 
 - [ndiego/enable-button-icons](https://github.com/ndiego/enable-button-icons) - Easily add icons to Button blocks in WordPress.
-- [BeAPI/beapi-frontend-framework](https://github.com/BeAPI/beapi-frontend-framework) - WordPress friendly Front-End framework.
 - [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
 - [inuitcss/inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
