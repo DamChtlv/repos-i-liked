@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
@@ -136,6 +137,7 @@
 - [codrops/TextBlockTransitions](https://github.com/codrops/TextBlockTransitions) - Some inspiration for transitioning text blocks with different word animations.
 - [codrops/OnScrollFilter](https://github.com/codrops/OnScrollFilter) - Combining GSAP's Scroll Trigger and Flip with a SVG Filter, based on a demo by Fabio Ottaviani.
 - [mciastek/sal](https://github.com/mciastek/sal) - 🚀 Performance focused, lightweight scroll animation library 🚀
+- [AntoineW/luge](https://github.com/AntoineW/luge) - Luge
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -263,7 +265,6 @@
 - [quentinhocde/loconative-scroll](https://github.com/quentinhocde/loconative-scroll) - The great locomotive-scroll but 100% Native, updated with Lenis to get a native but smooth scrolling experience.
 - [raphaelameaume/fragment](https://github.com/raphaelameaume/fragment) - [alpha] A modern toolkit for creative coding
 - [Code-Pop/vue-3-reactivity](https://github.com/Code-Pop/vue-3-reactivity) - Code from the Vue 3 Reactivity course
-- [AntoineW/luge](https://github.com/AntoineW/luge) - Luge
 - [Aqro/threejs-vanishing-suzanne](https://github.com/Aqro/threejs-vanishing-suzanne) - A vanishing effect for particles and magic lovers using Threejs, GSAP and custom shaders.
 - [morrislaptop/tailwind-zeplin-extension](https://github.com/morrislaptop/tailwind-zeplin-extension) - Utilities to generate Tailwind Config and classes for your components.
 - [javierbyte/timelapses](https://github.com/javierbyte/timelapses) - 
@@ -671,7 +672,6 @@
 - [schlessera/webmcp-hackathon](https://github.com/schlessera/webmcp-hackathon) - 
 - [GoogleChromeLabs/webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools) - This repository contains a suite of developer utilities and demos designed to support the adoption of the WebMCP API.
 - [mikhailmogilnikov/hyperellipse](https://github.com/mikhailmogilnikov/hyperellipse) - CSS corner-shape polyfill — squircles, superellipses, scoops & notches
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) - Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [Sidsector9/local-wordpress-supercharged](https://github.com/Sidsector9/local-wordpress-supercharged) - A Local by Flywheel addon that supercharges your local WordPress development workflow.
