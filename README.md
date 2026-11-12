@@ -320,7 +320,6 @@
 - [ChrisCavs/rallax.js](https://github.com/ChrisCavs/rallax.js) - Dead simple parallax scrolling.
 - [jonyhayama/acf-intl-tel-input](https://github.com/jonyhayama/acf-intl-tel-input) - 
 - [dept/highway](https://github.com/dept/highway) - Highway - A Modern Javascript Transitions Manager
-- [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [pixelcollective/gardener](https://github.com/pixelcollective/gardener) - Lazy configuration of Roots stack (Trellis/Bedrock/Sage/Soil) based on command-line prompts.
@@ -634,6 +633,7 @@
 
 - [ndiego/enable-button-icons](https://github.com/ndiego/enable-button-icons) - Easily add icons to Button blocks in WordPress.
 - [mpdf/mpdf.github.io](https://github.com/mpdf/mpdf.github.io) - mPDF documentation
+- [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [inuitcss/inuitcss](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.
 - [kylelogue/mustard-ui](https://github.com/kylelogue/mustard-ui) - A starter CSS framework that actually looks good.
 
