@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
@@ -217,7 +218,6 @@
 - [ndiego/mega-menu-block](https://github.com/ndiego/mega-menu-block) - An exploratory mega menu block.
 - [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to your website.
 - [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
-- [10up/insert-special-characters](https://github.com/10up/insert-special-characters) - A Special Character inserter for the WordPress block editor (Gutenberg).
 - [MarieComet/core-block-custom-attributes](https://github.com/MarieComet/core-block-custom-attributes) - Example to add custom attributes to core blocks (Toolbar and Sidebar)
 - [WordPress/block-development-examples](https://github.com/WordPress/block-development-examples) - Practical examples for building WordPress blocks and extending the Editor.
 - [happyprime/wphtml-converter](https://github.com/happyprime/wphtml-converter) - Converts WPHTML (WordPress block markup) to its JS/JSON or PHP forms.
@@ -472,6 +472,7 @@
 - [oidc-wp/oidc-wp-roles](https://github.com/oidc-wp/oidc-wp-roles) - Open ID Connect - WordPress Roles
 - [timnolte/oidc-keycloak-sso](https://github.com/timnolte/oidc-keycloak-sso) - 
 - [SAML-Toolkits/php-saml](https://github.com/SAML-Toolkits/php-saml) - Simple SAML toolkit for PHP
+- [10up/insert-special-characters](https://github.com/10up/insert-special-characters) - A Special Character inserter for the WordPress block editor (Gutenberg).
 - [mattwatsoncodes/wholesome-highlighter](https://github.com/mattwatsoncodes/wholesome-highlighter) - Highlight text with a highlight colour of your choice, using Highlighter.
 - [MarieComet/better-accessibility](https://github.com/MarieComet/better-accessibility) - This WordPress plugin adds settings to improve accessibility and automatically corrects accessibility issues.
 - [jumbojett/OpenID-Connect-PHP](https://github.com/jumbojett/OpenID-Connect-PHP) - Minimalist OpenID Connect client
@@ -672,7 +673,6 @@
 - [schlessera/webmcp-hackathon](https://github.com/schlessera/webmcp-hackathon) - 
 - [GoogleChromeLabs/webmcp-tools](https://github.com/GoogleChromeLabs/webmcp-tools) - This repository contains a suite of developer utilities and demos designed to support the adoption of the WebMCP API.
 - [mikhailmogilnikov/hyperellipse](https://github.com/mikhailmogilnikov/hyperellipse) - CSS corner-shape polyfill — squircles, superellipses, scoops & notches
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [pullfrog/pullfrog](https://github.com/pullfrog/pullfrog) - Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [Sidsector9/local-wordpress-supercharged](https://github.com/Sidsector9/local-wordpress-supercharged) - A Local by Flywheel addon that supercharges your local WordPress development workflow.
