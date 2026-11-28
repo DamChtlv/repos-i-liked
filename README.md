@@ -668,6 +668,7 @@
 
 ## TypeScript 
 
+- [epergaboni/jevseo](https://github.com/epergaboni/jevseo) - Typed SEO, AEO and GEO judgments powered by Jev, a System One decision model. Code owns the rules, the model owns the meaning.
 - [DavidFuchs/mcp-uptime-kuma](https://github.com/DavidFuchs/mcp-uptime-kuma) - A Model Context Protocol (MCP) server for Uptime Kuma version 2.
 - [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack.
 - [schlessera/webmcp-hackathon](https://github.com/schlessera/webmcp-hackathon) - 
